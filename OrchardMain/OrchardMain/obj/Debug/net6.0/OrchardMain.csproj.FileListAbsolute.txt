@@ -430,3 +430,4 @@
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardMain/OrchardMain/obj/Debug/net6.0/ref/OrchardMain.dll
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardMain/OrchardMain/bin/Debug/net6.0/ThemeDevelopment.dll
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardMain/OrchardMain/bin/Debug/net6.0/ThemeDevelopment.pdb
+/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardMain/OrchardMain/bin/Debug/net6.0/ThemeDevelopment.staticwebassets.runtime.json

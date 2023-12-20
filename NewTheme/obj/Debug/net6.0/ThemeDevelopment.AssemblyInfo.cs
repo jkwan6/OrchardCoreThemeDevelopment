@@ -17,8 +17,33 @@ using System.Reflection;
     "s/ThemeDevelopment/NewTheme/package.json")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Recipes/saas.recipe.json|/Users/kevinwan/Documents/Program" +
     "ming Projects/ThemeDevelopment/NewTheme/Recipes/saas.recipe.json")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Blog-ListPart.liquid|/Users/kevinwan/Documents/Progr" +
+    "amming Projects/ThemeDevelopment/NewTheme/Views/Blog-ListPart.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/BlogPost-Category.liquid|/Users/kevinwan/Documents/P" +
+    "rogramming Projects/ThemeDevelopment/NewTheme/Views/BlogPost-Category.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/BlogPost-Tags-TaxonomyField-Tags.Display.liquid|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/BlogP" +
+    "ost-Tags-TaxonomyField-Tags.Display.liquid")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Branding.cshtml|/Users/kevinwan/Documents/Programmin" +
     "g Projects/ThemeDevelopment/NewTheme/Views/Branding.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Category-TermPart.liquid|/Users/kevinwan/Documents/P" +
+    "rogramming Projects/ThemeDevelopment/NewTheme/Views/Category-TermPart.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Content-Article.liquid|/Users/kevinwan/Documents/Pro" +
+    "gramming Projects/ThemeDevelopment/NewTheme/Views/Content-Article.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Content-Blog.liquid|/Users/kevinwan/Documents/Progra" +
+    "mming Projects/ThemeDevelopment/NewTheme/Views/Content-Blog.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Content-BlogPost.liquid|/Users/kevinwan/Documents/Pr" +
+    "ogramming Projects/ThemeDevelopment/NewTheme/Views/Content-BlogPost.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Content-BlogPost.Summary.liquid|/Users/kevinwan/Docu" +
+    "ments/Programming Projects/ThemeDevelopment/NewTheme/Views/Content-BlogPost.Summ" +
+    "ary.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Content-Category.liquid|/Users/kevinwan/Documents/Pr" +
+    "ogramming Projects/ThemeDevelopment/NewTheme/Views/Content-Category.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Content-Category.Summary.liquid|/Users/kevinwan/Docu" +
+    "ments/Programming Projects/ThemeDevelopment/NewTheme/Views/Content-Category.Summ" +
+    "ary.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Content.liquid|/Users/kevinwan/Documents/Programming" +
+    " Projects/ThemeDevelopment/NewTheme/Views/Content.liquid")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Home/Index.cshtml|/Users/kevinwan/Documents/Programm" +
     "ing Projects/ThemeDevelopment/NewTheme/Views/Home/Index.cshtml")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Layout.cshtml|/Users/kevinwan/Documents/Programming " +
@@ -36,12 +61,37 @@ using System.Reflection;
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/MenuItemLink-LinkMenuItem.cshtml|/Users/kevinwan/Doc" +
     "uments/Programming Projects/ThemeDevelopment/NewTheme/Views/MenuItemLink-LinkMen" +
     "uItem.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Search-Form.liquid|/Users/kevinwan/Documents/Program" +
+    "ming Projects/ThemeDevelopment/NewTheme/Views/Search-Form.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Search-Results.liquid|/Users/kevinwan/Documents/Prog" +
+    "ramming Projects/ThemeDevelopment/NewTheme/Views/Search-Results.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Shared/NotFound.liquid|/Users/kevinwan/Documents/Pro" +
+    "gramming Projects/ThemeDevelopment/NewTheme/Views/Shared/NotFound.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Shared/Search.liquid|/Users/kevinwan/Documents/Progr" +
+    "amming Projects/ThemeDevelopment/NewTheme/Views/Shared/Search.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Tag-TermPart.liquid|/Users/kevinwan/Documents/Progra" +
+    "mming Projects/ThemeDevelopment/NewTheme/Views/Tag-TermPart.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Term-Category.liquid|/Users/kevinwan/Documents/Progr" +
+    "amming Projects/ThemeDevelopment/NewTheme/Views/Term-Category.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/TermContentItem-Tag.liquid|/Users/kevinwan/Documents" +
+    "/Programming Projects/ThemeDevelopment/NewTheme/Views/TermContentItem-Tag.liquid" +
+    "")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/TermItem-Category.liquid|/Users/kevinwan/Documents/P" +
+    "rogramming Projects/ThemeDevelopment/NewTheme/Views/TermItem-Category.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget-Blockquote.liquid|/Users/kevinwan/Documents/P" +
+    "rogramming Projects/ThemeDevelopment/NewTheme/Views/Widget-Blockquote.liquid")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget-Form.cshtml|/Users/kevinwan/Documents/Program" +
     "ming Projects/ThemeDevelopment/NewTheme/Views/Widget-Form.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget-Image.liquid|/Users/kevinwan/Documents/Progra" +
+    "mming Projects/ThemeDevelopment/NewTheme/Views/Widget-Image.liquid")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget-Input.cshtml|/Users/kevinwan/Documents/Progra" +
     "mming Projects/ThemeDevelopment/NewTheme/Views/Widget-Input.cshtml")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget-Label.cshtml|/Users/kevinwan/Documents/Progra" +
     "mming Projects/ThemeDevelopment/NewTheme/Views/Widget-Label.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget-Paragraph.liquid|/Users/kevinwan/Documents/Pr" +
+    "ogramming Projects/ThemeDevelopment/NewTheme/Views/Widget-Paragraph.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget-RawHtml.liquid|/Users/kevinwan/Documents/Prog" +
+    "ramming Projects/ThemeDevelopment/NewTheme/Views/Widget-RawHtml.liquid")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget-Select.cshtml|/Users/kevinwan/Documents/Progr" +
     "amming Projects/ThemeDevelopment/NewTheme/Views/Widget-Select.cshtml")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget-TextArea.cshtml|/Users/kevinwan/Documents/Pro" +
@@ -54,6 +104,9 @@ using System.Reflection;
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget.Wrapper-Zone-HeadMeta.cshtml|/Users/kevinwan/" +
     "Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Widget.Wrapper-Zo" +
     "ne-HeadMeta.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget.Wrapper-Zone-HeadMeta.liquid|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Widget.Wrapper-Zo" +
+    "ne-HeadMeta.liquid")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/_ViewImports.cshtml|/Users/kevinwan/Documents/Progra" +
     "mming Projects/ThemeDevelopment/NewTheme/Views/_ViewImports.cshtml")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/css/bootstrap-oc.css|/Users/kevinwan/Documents/Pro" +
@@ -71,7 +124,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThemeDevelopment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d09042abe888a91224bc287870cdca5e4b4f3b7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a489d88670c4c79d6b9a2d816851c0d8ddfdb131")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThemeDevelopment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThemeDevelopment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

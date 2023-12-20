@@ -5803,10 +5803,14 @@
       },
       "ThemeDevelopment/1.0.0": {
         "dependencies": {
+          "OrchardCore.Admin.Abstractions": "1.7.2",
           "OrchardCore.ContentManagement": "1.7.2",
           "OrchardCore.DisplayManagement": "1.7.2",
+          "OrchardCore.Menu": "1.7.2",
           "OrchardCore.ResourceManagement": "1.7.2",
-          "OrchardCore.Theme.Targets": "1.7.2"
+          "OrchardCore.Theme.Targets": "1.7.2",
+          "OrchardCore.Users": "1.7.2",
+          "OrchardCore.Users.Abstractions": "1.7.2"
         },
         "runtime": {
           "ThemeDevelopment.dll": {}
