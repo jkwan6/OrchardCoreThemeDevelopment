@@ -428,3 +428,5 @@
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardMain/OrchardMain/obj/Debug/net6.0/OrchardMain.pdb
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardMain/OrchardMain/obj/Debug/net6.0/OrchardMain.genruntimeconfig.cache
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardMain/OrchardMain/obj/Debug/net6.0/ref/OrchardMain.dll
+/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardMain/OrchardMain/bin/Debug/net6.0/ThemeDevelopment.dll
+/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardMain/OrchardMain/bin/Debug/net6.0/ThemeDevelopment.pdb

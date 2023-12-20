@@ -11,12 +11,67 @@ using System;
 using System.Reflection;
 
 [assembly: OrchardCore.Modules.Manifest.ModuleMarkerAttribute("ThemeDevelopment", "Theme")]
-[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Layout.liquid|/Users/kevinwan/Documents/Programming " +
-    "Projects/ThemeDevelopment/NewTheme/Views/Layout.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/package-lock.json|/Users/kevinwan/Documents/Programming Pr" +
+    "ojects/ThemeDevelopment/NewTheme/package-lock.json")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/package.json|/Users/kevinwan/Documents/Programming Project" +
+    "s/ThemeDevelopment/NewTheme/package.json")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Recipes/saas.recipe.json|/Users/kevinwan/Documents/Program" +
+    "ming Projects/ThemeDevelopment/NewTheme/Recipes/saas.recipe.json")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Branding.cshtml|/Users/kevinwan/Documents/Programmin" +
+    "g Projects/ThemeDevelopment/NewTheme/Views/Branding.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Home/Index.cshtml|/Users/kevinwan/Documents/Programm" +
+    "ing Projects/ThemeDevelopment/NewTheme/Views/Home/Index.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Layout.cshtml|/Users/kevinwan/Documents/Programming " +
+    "Projects/ThemeDevelopment/NewTheme/Views/Layout.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Menu.cshtml|/Users/kevinwan/Documents/Programming Pr" +
+    "ojects/ThemeDevelopment/NewTheme/Views/Menu.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/MenuItem.cshtml|/Users/kevinwan/Documents/Programmin" +
+    "g Projects/ThemeDevelopment/NewTheme/Views/MenuItem.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/MenuItemLink-ContentMenuItem.cshtml|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/MenuItemLink-Cont" +
+    "entMenuItem.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/MenuItemLink-HtmlMenuItem.cshtml|/Users/kevinwan/Doc" +
+    "uments/Programming Projects/ThemeDevelopment/NewTheme/Views/MenuItemLink-HtmlMen" +
+    "uItem.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/MenuItemLink-LinkMenuItem.cshtml|/Users/kevinwan/Doc" +
+    "uments/Programming Projects/ThemeDevelopment/NewTheme/Views/MenuItemLink-LinkMen" +
+    "uItem.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget-Form.cshtml|/Users/kevinwan/Documents/Program" +
+    "ming Projects/ThemeDevelopment/NewTheme/Views/Widget-Form.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget-Input.cshtml|/Users/kevinwan/Documents/Progra" +
+    "mming Projects/ThemeDevelopment/NewTheme/Views/Widget-Input.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget-Label.cshtml|/Users/kevinwan/Documents/Progra" +
+    "mming Projects/ThemeDevelopment/NewTheme/Views/Widget-Label.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget-Select.cshtml|/Users/kevinwan/Documents/Progr" +
+    "amming Projects/ThemeDevelopment/NewTheme/Views/Widget-Select.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget-TextArea.cshtml|/Users/kevinwan/Documents/Pro" +
+    "gramming Projects/ThemeDevelopment/NewTheme/Views/Widget-TextArea.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget-Validation.cshtml|/Users/kevinwan/Documents/P" +
+    "rogramming Projects/ThemeDevelopment/NewTheme/Views/Widget-Validation.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget-ValidationSummary.cshtml|/Users/kevinwan/Docu" +
+    "ments/Programming Projects/ThemeDevelopment/NewTheme/Views/Widget-ValidationSumm" +
+    "ary.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget.Wrapper-Zone-HeadMeta.cshtml|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Widget.Wrapper-Zo" +
+    "ne-HeadMeta.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/_ViewImports.cshtml|/Users/kevinwan/Documents/Progra" +
+    "mming Projects/ThemeDevelopment/NewTheme/Views/_ViewImports.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/css/bootstrap-oc.css|/Users/kevinwan/Documents/Pro" +
+    "gramming Projects/ThemeDevelopment/NewTheme/wwwroot/css/bootstrap-oc.css")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/css/bootstrap-oc.min.css|/Users/kevinwan/Documents" +
+    "/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/css/bootstrap-oc.min.css" +
+    "")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/css/sticky-footer-navbar.css|/Users/kevinwan/Docum" +
+    "ents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/css/sticky-footer-na" +
+    "vbar.css")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/favicon.ico|/Users/kevinwan/Documents/Programming " +
+    "Projects/ThemeDevelopment/NewTheme/wwwroot/favicon.ico")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/Theme.png|/Users/kevinwan/Documents/Programming Pr" +
+    "ojects/ThemeDevelopment/NewTheme/wwwroot/Theme.png")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThemeDevelopment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d09042abe888a91224bc287870cdca5e4b4f3b7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThemeDevelopment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThemeDevelopment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

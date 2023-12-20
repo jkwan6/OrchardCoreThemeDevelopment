@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "IzGhmMXDAI76v2f3K/NSvT8GI7mgJK1w4gdr7MCLrsw=",
+  "Hash": "QuSqA5uTcSvsXTzGq/b4RAklVADHbmJG2A3kN8eSS/o=",
   "Source": "OrchardMain",
   "BasePath": "_content/OrchardMain",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ThemeDevelopment.csproj",
+      "Version": 2,
+      "Source": "ThemeDevelopment",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "OrchardMain/wwwroot",

@@ -17,3 +17,71 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme
 build_property._RazorSourceGeneratorDebug = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Branding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQnJhbmRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/MenuItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVudUl0ZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/MenuItemLink-ContentMenuItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVudUl0ZW1MaW5rLUNvbnRlbnRNZW51SXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/MenuItemLink-HtmlMenuItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVudUl0ZW1MaW5rLUh0bWxNZW51SXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/MenuItemLink-LinkMenuItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVudUl0ZW1MaW5rLUxpbmtNZW51SXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Widget-Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2lkZ2V0LUZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Widget-Input.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2lkZ2V0LUlucHV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Widget-Label.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2lkZ2V0LUxhYmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Widget-Select.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2lkZ2V0LVNlbGVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Widget-TextArea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2lkZ2V0LVRleHRBcmVhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Widget-Validation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2lkZ2V0LVZhbGlkYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Widget-ValidationSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2lkZ2V0LVZhbGlkYXRpb25TdW1tYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Widget.Wrapper-Zone-HeadMeta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2lkZ2V0LldyYXBwZXItWm9uZS1IZWFkTWV0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

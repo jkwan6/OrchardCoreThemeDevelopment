@@ -10,4 +10,8 @@
     <PackageReference Include="OrchardCore.Application.Cms.Targets" Version="1.7.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\NewTheme\ThemeDevelopment.csproj" />
+  </ItemGroup>
+
 </Project>

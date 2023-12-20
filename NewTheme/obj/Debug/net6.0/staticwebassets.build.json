@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "YbMuh6fX5pWXS9+Cy6vfe3Xw8IOUWZ+Pel8zcZvcj3Y=",
+  "Source": "ThemeDevelopment",
+  "BasePath": "_content/ThemeDevelopment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ThemeDevelopment/wwwroot",
+      "Source": "ThemeDevelopment",
+      "ContentRoot": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/",
+      "BasePath": "_content/ThemeDevelopment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
