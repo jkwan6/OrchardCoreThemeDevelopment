@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1706.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchardMain", "OrchardMain\OrchardMain.csproj", "{300E11C6-C1F8-4C58-98DA-171F2B80F6CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemeDevelopment", "..\NewTheme\ThemeDevelopment.csproj", "{39ACC825-39F2-4AE7-BDC8-7C7D4A210333}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{300E11C6-C1F8-4C58-98DA-171F2B80F6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{300E11C6-C1F8-4C58-98DA-171F2B80F6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{300E11C6-C1F8-4C58-98DA-171F2B80F6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39ACC825-39F2-4AE7-BDC8-7C7D4A210333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39ACC825-39F2-4AE7-BDC8-7C7D4A210333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39ACC825-39F2-4AE7-BDC8-7C7D4A210333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39ACC825-39F2-4AE7-BDC8-7C7D4A210333}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
