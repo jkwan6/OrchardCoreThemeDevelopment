@@ -117,6 +117,8 @@ using System.Reflection;
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/css/sticky-footer-navbar.css|/Users/kevinwan/Docum" +
     "ents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/css/sticky-footer-na" +
     "vbar.css")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/css/styles.css|/Users/kevinwan/Documents/Programmi" +
+    "ng Projects/ThemeDevelopment/NewTheme/wwwroot/css/styles.css")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/favicon.ico|/Users/kevinwan/Documents/Programming " +
     "Projects/ThemeDevelopment/NewTheme/wwwroot/favicon.ico")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/Theme.png|/Users/kevinwan/Documents/Programming Pr" +
@@ -124,7 +126,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThemeDevelopment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a489d88670c4c79d6b9a2d816851c0d8ddfdb131")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db6330c19edeaf8891af7e6e79d404073ac04b2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThemeDevelopment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThemeDevelopment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

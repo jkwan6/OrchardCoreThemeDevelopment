@@ -102,7 +102,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrchardMain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a489d88670c4c79d6b9a2d816851c0d8ddfdb131")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db6330c19edeaf8891af7e6e79d404073ac04b2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrchardMain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrchardMain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

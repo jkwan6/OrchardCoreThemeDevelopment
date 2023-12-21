@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YbMuh6fX5pWXS9+Cy6vfe3Xw8IOUWZ+Pel8zcZvcj3Y=",
+  "Hash": "V3AFi4JDshNdzAP4ymu6kbzqkXNRJGRA0vrqyH0qhRw=",
   "Source": "ThemeDevelopment",
   "BasePath": "_content/ThemeDevelopment",
   "Mode": "Default",
@@ -15,5 +15,25 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/css/styles.css",
+      "SourceId": "ThemeDevelopment",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/",
+      "BasePath": "_content/ThemeDevelopment",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/styles.css"
+    }
+  ]
 }

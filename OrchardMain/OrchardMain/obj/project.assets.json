@@ -899,7 +899,7 @@
           "Microsoft.AspNetCore.App"
         ],
         "build": {
-          "buildTransitive/net6.0/_._": {}
+          "buildTransitive/net6.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.targets": {}
         }
       },
       "Microsoft.AspNetCore.Razor.Language/6.0.21": {
@@ -26234,6 +26234,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 6.0.21",
       "OrchardCore.Application.Cms.Targets >= 1.7.2",
       "ThemeDevelopment >= 1.0.0"
     ]
@@ -26279,6 +26280,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+            "target": "Package",
+            "version": "[6.0.21, )"
+          },
           "OrchardCore.Application.Cms.Targets": {
             "target": "Package",
             "version": "[1.7.2, )"

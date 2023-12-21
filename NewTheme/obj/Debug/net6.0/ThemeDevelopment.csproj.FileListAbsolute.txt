@@ -6,7 +6,6 @@
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/obj/Debug/net6.0/ThemeDevelopment.AssemblyInfoInputs.cache
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/obj/Debug/net6.0/ThemeDevelopment.AssemblyInfo.cs
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/obj/Debug/net6.0/ThemeDevelopment.csproj.CoreCompileInputs.cache
-/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/obj/Debug/net6.0/ThemeDevelopment.sourcelink.json
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/obj/Debug/net6.0/staticwebassets.build.json
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/obj/Debug/net6.0/staticwebassets.development.json
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/obj/Debug/net6.0/staticwebassets/msbuild.ThemeDevelopment.Microsoft.AspNetCore.StaticWebAssets.props
@@ -22,3 +21,4 @@
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/bin/Debug/net6.0/ThemeDevelopment.staticwebassets.runtime.json
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/obj/Debug/net6.0/ThemeDevelopment.RazorAssemblyInfo.cache
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/obj/Debug/net6.0/ThemeDevelopment.RazorAssemblyInfo.cs
+/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/obj/Debug/net6.0/ThemeDevelopment.sourcelink.json
