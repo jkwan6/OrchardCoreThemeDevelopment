@@ -1,13 +1,12 @@
-/**{*/
-/*    color: red;*/
-/*}*/
+
 
 .body-container{
     display: flex;
     width:100%;
     justify-content: center;
 }
+
 .body-width{
     width:100%;
-    max-width: 1200px;
+    max-width: 1000px;
 }

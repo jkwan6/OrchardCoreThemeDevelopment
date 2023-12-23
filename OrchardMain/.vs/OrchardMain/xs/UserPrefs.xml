@@ -1,29 +1,30 @@
 ﻿<Properties StartupConfiguration="{300E11C6-C1F8-4C58-98DA-171F2B80F6CA}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.OrchardMain PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../NewTheme/Views/Content-BlogPost.liquid">
+  <MonoDevelop.Ide.Workbench ActiveDocument="package.json">
     <Files>
-      <File FileName="../NewTheme/Views/Content-BlogPost.liquid" Line="22" Column="27" />
-      <File FileName="../NewTheme/Views/Content-Blog.liquid" Line="1" Column="1" />
-      <File FileName="../NewTheme/Views/Content-BlogPost.Summary.liquid" Line="1" Column="1" />
+      <File FileName="../../OrchardCoreSOURCECODE/OrchardCore-main/src/OrchardCore.Themes/TheBlogTheme/wwwroot/js/scripts.js" />
+      <File FileName="../NewTheme/Views/Content-BlogPost.liquid" />
+      <File FileName="../NewTheme/Views/Content-Blog.liquid" />
+      <File FileName="../NewTheme/Views/Content-BlogPost.Summary.liquid" />
+      <File FileName="../NewTheme/wwwroot/js/site.js" Line="1" Column="1" />
+      <File FileName="OrchardMain/libman.json" Line="11" Column="2" />
+      <File FileName="gulpfile.js" Line="1" Column="1" />
+      <File FileName="package.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="OrchardMain" expanded="True">
-            <Node name="ThemeDevelopment" expanded="True">
-              <Node name="Views" expanded="True">
-                <Node name="Content-BlogPost.liquid" expanded="True" selected="True" />
-              </Node>
-            </Node>
+            <Node name="Solution Items" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

@@ -715,4 +715,7 @@
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardMain/OrchardMain/bin/Debug/net6.0/refs/System.Xml.XPath.dll
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardMain/OrchardMain/bin/Debug/net6.0/refs/System.Xml.XPath.XDocument.dll
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardMain/OrchardMain/bin/Debug/net6.0/refs/WindowsBase.dll
+/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardMain/OrchardMain/bin/Debug/net6.0/package-lock.json
+/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardMain/OrchardMain/bin/Debug/net6.0/package.json
+/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardMain/OrchardMain/bin/Debug/net6.0/libman.json
 /Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardMain/OrchardMain/obj/Debug/net6.0/OrchardMain.sourcelink.json

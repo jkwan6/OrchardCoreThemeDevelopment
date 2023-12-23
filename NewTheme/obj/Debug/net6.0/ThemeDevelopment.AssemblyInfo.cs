@@ -11,6 +11,8 @@ using System;
 using System.Reflection;
 
 [assembly: OrchardCore.Modules.Manifest.ModuleMarkerAttribute("ThemeDevelopment", "Theme")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/orchardcore.thetheme-1.0.0.tgz|/Users/kevinwan/Documents/P" +
+    "rogramming Projects/ThemeDevelopment/NewTheme/orchardcore.thetheme-1.0.0.tgz")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/package-lock.json|/Users/kevinwan/Documents/Programming Pr" +
     "ojects/ThemeDevelopment/NewTheme/package-lock.json")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/package.json|/Users/kevinwan/Documents/Programming Project" +
@@ -121,12 +123,3330 @@ using System.Reflection;
     "ng Projects/ThemeDevelopment/NewTheme/wwwroot/css/styles.css")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/favicon.ico|/Users/kevinwan/Documents/Programming " +
     "Projects/ThemeDevelopment/NewTheme/wwwroot/favicon.ico")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/js/main.js|/Users/kevinwan/Documents/Programming P" +
+    "rojects/ThemeDevelopment/NewTheme/wwwroot/js/main.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/js/site.js|/Users/kevinwan/Documents/Programming P" +
+    "rojects/ThemeDevelopment/NewTheme/wwwroot/js/site.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/all.d.ts|/Users/kevinwan/Documents/Pr" +
+    "ogramming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/all.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/all.js|/Users/kevinwan/Documents/Prog" +
+    "ramming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/all.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/all.js.map|/Users/kevinwan/Documents/" +
+    "Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/all.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/elevated-button.d.ts|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/button/elevated-button.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/elevated-button.js|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/button/elevated-button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/elevated-button.js.map|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/button/elevated-button.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/filled-button.d.ts|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/button/filled-button.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/filled-button.js|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/button/filled-button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/filled-button.js.map|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/button/filled-button.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/filled-tonal-button.d.ts|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/button/filled-tonal-button.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/filled-tonal-button.js|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/button/filled-tonal-button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/filled-tonal-button.js.map|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/button/filled-tonal-button.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/harness.d.ts|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/but" +
+    "ton/harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/harness.js|/Users/kevinwan/Doc" +
+    "uments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/butto" +
+    "n/harness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/harness.js.map|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/b" +
+    "utton/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/button.d.ts|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/button/internal/button.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/button.js|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/button/internal/button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/button.js.map|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/button/internal/button.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/elevated-button.d.ts|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/button/internal/elevated-button.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/elevated-button.js|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/button/internal/elevated-button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/elevated-button.js.ma" +
+    "p|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/button/internal/elevated-button.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/elevated-styles.css.d" +
+    ".ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/button/internal/elevated-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/elevated-styles.css.j" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/button/internal/elevated-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/elevated-styles.css.j" +
+    "s.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/button/internal/elevated-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/elevated-styles.scss|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/button/internal/elevated-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/filled-button.d.ts|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/button/internal/filled-button.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/filled-button.js|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/button/internal/filled-button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/filled-button.js.map|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/button/internal/filled-button.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/filled-styles.css.d.t" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/button/internal/filled-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/filled-styles.css.js|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/button/internal/filled-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/filled-styles.css.js." +
+    "map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/button/internal/filled-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/filled-styles.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/button/internal/filled-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/filled-tonal-button.d" +
+    ".ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/button/internal/filled-tonal-button.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/filled-tonal-button.j" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/button/internal/filled-tonal-button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/filled-tonal-button.j" +
+    "s.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/button/internal/filled-tonal-button.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/filled-tonal-styles.c" +
+    "ss.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/button/internal/filled-tonal-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/filled-tonal-styles.c" +
+    "ss.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/button/internal/filled-tonal-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/filled-tonal-styles.c" +
+    "ss.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/button/internal/filled-tonal-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/filled-tonal-styles.s" +
+    "css|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/button/internal/filled-tonal-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/outlined-button.d.ts|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/button/internal/outlined-button.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/outlined-button.js|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/button/internal/outlined-button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/outlined-button.js.ma" +
+    "p|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/button/internal/outlined-button.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/outlined-styles.css.d" +
+    ".ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/button/internal/outlined-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/outlined-styles.css.j" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/button/internal/outlined-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/outlined-styles.css.j" +
+    "s.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/button/internal/outlined-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/outlined-styles.scss|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/button/internal/outlined-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/shared-elevation-styl" +
+    "es.css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewT" +
+    "heme/wwwroot/material/web/button/internal/shared-elevation-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/shared-elevation-styl" +
+    "es.css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/button/internal/shared-elevation-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/shared-elevation-styl" +
+    "es.css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/Ne" +
+    "wTheme/wwwroot/material/web/button/internal/shared-elevation-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/shared-elevation-styl" +
+    "es.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/button/internal/shared-elevation-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/shared-styles.css.d.t" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/button/internal/shared-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/shared-styles.css.js|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/button/internal/shared-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/shared-styles.css.js." +
+    "map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/button/internal/shared-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/shared-styles.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/button/internal/shared-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/text-button.d.ts|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/button/internal/text-button.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/text-button.js|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/button/internal/text-button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/text-button.js.map|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/button/internal/text-button.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/text-styles.css.d.ts|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/button/internal/text-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/text-styles.css.js|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/button/internal/text-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/text-styles.css.js.ma" +
+    "p|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/button/internal/text-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/text-styles.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/button/internal/text-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/_elevated-button.scss" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/button/internal/_elevated-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/_elevation.scss|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/button/internal/_elevation.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/_filled-button.scss|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/button/internal/_filled-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/_filled-tonal-button." +
+    "scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/button/internal/_filled-tonal-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/_icon.scss|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/button/internal/_icon.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/_outlined-button.scss" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/button/internal/_outlined-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/_shared.scss|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/button/internal/_shared.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/_text-button.scss|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/button/internal/_text-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/internal/_touch-target.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/button/internal/_touch-target.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/outlined-button.d.ts|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/button/outlined-button.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/outlined-button.js|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/button/outlined-button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/outlined-button.js.map|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/button/outlined-button.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/text-button.d.ts|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/button/text-button.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/text-button.js|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/b" +
+    "utton/text-button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/text-button.js.map|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/button/text-button.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/_elevated-button.scss|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/button/_elevated-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/_filled-button.scss|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/button/_filled-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/_filled-tonal-button.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/button/_filled-tonal-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/_outlined-button.scss|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/button/_outlined-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/button/_text-button.scss|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/button/_text-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/checkbox/checkbox.d.ts|/Users/kevinwa" +
+    "n/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/" +
+    "checkbox/checkbox.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/checkbox/checkbox.js|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/ch" +
+    "eckbox/checkbox.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/checkbox/checkbox.js.map|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/checkbox/checkbox.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/checkbox/harness.d.ts|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/c" +
+    "heckbox/harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/checkbox/harness.js|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/che" +
+    "ckbox/harness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/checkbox/harness.js.map|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/checkbox/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/checkbox/internal/checkbox-styles.css" +
+    ".d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/checkbox/internal/checkbox-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/checkbox/internal/checkbox-styles.css" +
+    ".js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/checkbox/internal/checkbox-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/checkbox/internal/checkbox-styles.css" +
+    ".js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/checkbox/internal/checkbox-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/checkbox/internal/checkbox-styles.scs" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/checkbox/internal/checkbox-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/checkbox/internal/checkbox.d.ts|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/checkbox/internal/checkbox.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/checkbox/internal/checkbox.js|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/checkbox/internal/checkbox.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/checkbox/internal/checkbox.js.map|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/checkbox/internal/checkbox.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/checkbox/internal/_checkbox.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/checkbox/internal/_checkbox.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/checkbox/_checkbox.scss|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/checkbox/_checkbox.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/assist-chip.d.ts|/Users/kevinwa" +
+    "n/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/" +
+    "chips/assist-chip.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/assist-chip.js|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/ch" +
+    "ips/assist-chip.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/assist-chip.js.map|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/chips/assist-chip.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/chip-set.d.ts|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/chi" +
+    "ps/chip-set.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/chip-set.js|/Users/kevinwan/Doc" +
+    "uments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/chips" +
+    "/chip-set.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/chip-set.js.map|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/c" +
+    "hips/chip-set.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/filter-chip.d.ts|/Users/kevinwa" +
+    "n/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/" +
+    "chips/filter-chip.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/filter-chip.js|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/ch" +
+    "ips/filter-chip.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/filter-chip.js.map|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/chips/filter-chip.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/harness.d.ts|/Users/kevinwan/Do" +
+    "cuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/chip" +
+    "s/harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/harness.js|/Users/kevinwan/Docu" +
+    "ments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/chips/" +
+    "harness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/harness.js.map|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/ch" +
+    "ips/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/input-chip.d.ts|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/c" +
+    "hips/input-chip.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/input-chip.js|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/chi" +
+    "ps/input-chip.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/input-chip.js.map|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/chips/input-chip.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/assist-chip.d.ts|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/chips/internal/assist-chip.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/assist-chip.js|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/chips/internal/assist-chip.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/assist-chip.js.map|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/chips/internal/assist-chip.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/assist-styles.css.d.ts" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/chips/internal/assist-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/assist-styles.css.js|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/chips/internal/assist-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/assist-styles.css.js.m" +
+    "ap|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/chips/internal/assist-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/assist-styles.scss|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/chips/internal/assist-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/chip-set-styles.css.d." +
+    "ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/chips/internal/chip-set-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/chip-set-styles.css.js" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/chips/internal/chip-set-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/chip-set-styles.css.js" +
+    ".map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/chips/internal/chip-set-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/chip-set-styles.scss|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/chips/internal/chip-set-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/chip-set.d.ts|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/chips/internal/chip-set.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/chip-set.js|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/chips/internal/chip-set.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/chip-set.js.map|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/chips/internal/chip-set.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/chip.d.ts|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/chips/internal/chip.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/chip.js|/Users/kevinwa" +
+    "n/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/" +
+    "chips/internal/chip.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/chip.js.map|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/chips/internal/chip.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/elevated-styles.css.d." +
+    "ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/chips/internal/elevated-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/elevated-styles.css.js" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/chips/internal/elevated-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/elevated-styles.css.js" +
+    ".map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/chips/internal/elevated-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/elevated-styles.scss|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/chips/internal/elevated-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/filter-chip.d.ts|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/chips/internal/filter-chip.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/filter-chip.js|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/chips/internal/filter-chip.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/filter-chip.js.map|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/chips/internal/filter-chip.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/filter-styles.css.d.ts" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/chips/internal/filter-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/filter-styles.css.js|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/chips/internal/filter-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/filter-styles.css.js.m" +
+    "ap|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/chips/internal/filter-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/filter-styles.scss|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/chips/internal/filter-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/input-chip.d.ts|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/chips/internal/input-chip.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/input-chip.js|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/chips/internal/input-chip.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/input-chip.js.map|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/chips/internal/input-chip.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/input-styles.css.d.ts|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/chips/internal/input-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/input-styles.css.js|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/chips/internal/input-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/input-styles.css.js.ma" +
+    "p|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/chips/internal/input-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/input-styles.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/chips/internal/input-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/multi-action-chip.d.ts" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/chips/internal/multi-action-chip.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/multi-action-chip.js|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/chips/internal/multi-action-chip.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/multi-action-chip.js.m" +
+    "ap|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/chips/internal/multi-action-chip.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/selectable-styles.css." +
+    "d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/chips/internal/selectable-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/selectable-styles.css." +
+    "js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/chips/internal/selectable-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/selectable-styles.css." +
+    "js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/chips/internal/selectable-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/selectable-styles.scss" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/chips/internal/selectable-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/shared-styles.css.d.ts" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/chips/internal/shared-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/shared-styles.css.js|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/chips/internal/shared-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/shared-styles.css.js.m" +
+    "ap|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/chips/internal/shared-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/shared-styles.scss|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/chips/internal/shared-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/suggestion-chip.d.ts|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/chips/internal/suggestion-chip.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/suggestion-chip.js|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/chips/internal/suggestion-chip.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/suggestion-chip.js.map" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/chips/internal/suggestion-chip.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/suggestion-styles.css." +
+    "d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/chips/internal/suggestion-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/suggestion-styles.css." +
+    "js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/chips/internal/suggestion-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/suggestion-styles.css." +
+    "js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/chips/internal/suggestion-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/suggestion-styles.scss" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/chips/internal/suggestion-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/trailing-icon-styles.c" +
+    "ss.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/chips/internal/trailing-icon-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/trailing-icon-styles.c" +
+    "ss.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/chips/internal/trailing-icon-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/trailing-icon-styles.c" +
+    "ss.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/chips/internal/trailing-icon-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/trailing-icon-styles.s" +
+    "css|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/chips/internal/trailing-icon-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/trailing-icons.d.ts|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/chips/internal/trailing-icons.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/trailing-icons.js|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/chips/internal/trailing-icons.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/trailing-icons.js.map|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/chips/internal/trailing-icons.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/_assist-chip.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/chips/internal/_assist-chip.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/_chip-set.scss|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/chips/internal/_chip-set.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/_elevated.scss|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/chips/internal/_elevated.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/_filter-chip.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/chips/internal/_filter-chip.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/_input-chip.scss|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/chips/internal/_input-chip.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/_selectable.scss|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/chips/internal/_selectable.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/_shared.scss|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/chips/internal/_shared.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/_suggestion-chip.scss|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/chips/internal/_suggestion-chip.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/internal/_trailing-icon.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/chips/internal/_trailing-icon.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/suggestion-chip.d.ts|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/chips/suggestion-chip.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/suggestion-chip.js|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/chips/suggestion-chip.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/suggestion-chip.js.map|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/chips/suggestion-chip.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/_assist-chip.scss|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/chips/_assist-chip.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/_filter-chip.scss|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/chips/_filter-chip.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/_input-chip.scss|/Users/kevinwa" +
+    "n/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/" +
+    "chips/_input-chip.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/chips/_suggestion-chip.scss|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/chips/_suggestion-chip.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/color/_color.scss|/Users/kevinwan/Doc" +
+    "uments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/color" +
+    "/_color.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/common.d.ts|/Users/kevinwan/Documents" +
+    "/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/common.d.ts" +
+    "")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/common.js|/Users/kevinwan/Documents/P" +
+    "rogramming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/common.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/common.js.map|/Users/kevinwan/Documen" +
+    "ts/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/common.js" +
+    ".map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/dialog/dialog.d.ts|/Users/kevinwan/Do" +
+    "cuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/dial" +
+    "og/dialog.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/dialog/dialog.js|/Users/kevinwan/Docu" +
+    "ments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/dialog" +
+    "/dialog.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/dialog/dialog.js.map|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/di" +
+    "alog/dialog.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/dialog/harness.d.ts|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/dia" +
+    "log/harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/dialog/harness.js|/Users/kevinwan/Doc" +
+    "uments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/dialo" +
+    "g/harness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/dialog/harness.js.map|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/d" +
+    "ialog/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/dialog/internal/animations.d.ts|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/dialog/internal/animations.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/dialog/internal/animations.js|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/dialog/internal/animations.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/dialog/internal/animations.js.map|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/dialog/internal/animations.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/dialog/internal/dialog-styles.css.d.t" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/dialog/internal/dialog-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/dialog/internal/dialog-styles.css.js|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/dialog/internal/dialog-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/dialog/internal/dialog-styles.css.js." +
+    "map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/dialog/internal/dialog-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/dialog/internal/dialog-styles.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/dialog/internal/dialog-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/dialog/internal/dialog.d.ts|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/dialog/internal/dialog.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/dialog/internal/dialog.js|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/dialog/internal/dialog.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/dialog/internal/dialog.js.map|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/dialog/internal/dialog.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/dialog/internal/_dialog.scss|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/dialog/internal/_dialog.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/dialog/_dialog.scss|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/dia" +
+    "log/_dialog.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/divider/divider.d.ts|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/di" +
+    "vider/divider.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/divider/divider.js|/Users/kevinwan/Do" +
+    "cuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/divi" +
+    "der/divider.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/divider/divider.js.map|/Users/kevinwa" +
+    "n/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/" +
+    "divider/divider.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/divider/internal/divider-styles.css.d" +
+    ".ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/divider/internal/divider-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/divider/internal/divider-styles.css.j" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/divider/internal/divider-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/divider/internal/divider-styles.css.j" +
+    "s.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/divider/internal/divider-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/divider/internal/divider-styles.scss|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/divider/internal/divider-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/divider/internal/divider.d.ts|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/divider/internal/divider.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/divider/internal/divider.js|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/divider/internal/divider.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/divider/internal/divider.js.map|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/divider/internal/divider.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/divider/internal/_divider.scss|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/divider/internal/_divider.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/divider/_divider.scss|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/d" +
+    "ivider/_divider.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/docs/theming/README.md|/Users/kevinwa" +
+    "n/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/" +
+    "docs/theming/README.md")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/elevation/elevation.d.ts|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/elevation/elevation.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/elevation/elevation.js|/Users/kevinwa" +
+    "n/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/" +
+    "elevation/elevation.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/elevation/elevation.js.map|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/elevation/elevation.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/elevation/internal/elevation-styles.c" +
+    "ss.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/elevation/internal/elevation-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/elevation/internal/elevation-styles.c" +
+    "ss.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/elevation/internal/elevation-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/elevation/internal/elevation-styles.c" +
+    "ss.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/elevation/internal/elevation-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/elevation/internal/elevation-styles.s" +
+    "css|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/elevation/internal/elevation-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/elevation/internal/elevation.d.ts|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/elevation/internal/elevation.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/elevation/internal/elevation.js|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/elevation/internal/elevation.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/elevation/internal/elevation.js.map|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/elevation/internal/elevation.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/elevation/internal/_elevation.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/elevation/internal/_elevation.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/elevation/_elevation.scss|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/elevation/_elevation.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/branded-fab.d.ts|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/fa" +
+    "b/branded-fab.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/branded-fab.js|/Users/kevinwan/Do" +
+    "cuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/fab/" +
+    "branded-fab.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/branded-fab.js.map|/Users/kevinwa" +
+    "n/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/" +
+    "fab/branded-fab.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/fab.d.ts|/Users/kevinwan/Document" +
+    "s/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/fab/fab.d." +
+    "ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/fab.js|/Users/kevinwan/Documents/" +
+    "Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/fab/fab.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/fab.js.map|/Users/kevinwan/Docume" +
+    "nts/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/fab/fab." +
+    "js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/harness.d.ts|/Users/kevinwan/Docu" +
+    "ments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/fab/ha" +
+    "rness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/harness.js|/Users/kevinwan/Docume" +
+    "nts/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/fab/harn" +
+    "ess.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/harness.js.map|/Users/kevinwan/Do" +
+    "cuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/fab/" +
+    "harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/fab-branded-styles.css.d" +
+    ".ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/fab/internal/fab-branded-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/fab-branded-styles.css.j" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/fab/internal/fab-branded-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/fab-branded-styles.css.j" +
+    "s.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/fab/internal/fab-branded-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/fab-branded-styles.scss|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/fab/internal/fab-branded-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/fab-styles.css.d.ts|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/fab/internal/fab-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/fab-styles.css.js|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/fab/internal/fab-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/fab-styles.css.js.map|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/fab/internal/fab-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/fab-styles.scss|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/fab/internal/fab-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/fab.d.ts|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/f" +
+    "ab/internal/fab.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/fab.js|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/fab" +
+    "/internal/fab.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/fab.js.map|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/fab/internal/fab.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/forced-colors-styles.css" +
+    ".d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/fab/internal/forced-colors-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/forced-colors-styles.css" +
+    ".js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/fab/internal/forced-colors-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/forced-colors-styles.css" +
+    ".js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/fab/internal/forced-colors-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/forced-colors-styles.scs" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/fab/internal/forced-colors-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/shared-styles.css.d.ts|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/fab/internal/shared-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/shared-styles.css.js|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/fab/internal/shared-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/shared-styles.css.js.map" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/fab/internal/shared-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/shared-styles.scss|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/fab/internal/shared-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/shared.d.ts|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/fab/internal/shared.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/shared.js|/Users/kevinwa" +
+    "n/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/" +
+    "fab/internal/shared.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/shared.js.map|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/fab/internal/shared.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/_fab-branded.scss|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/fab/internal/_fab-branded.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/_fab.scss|/Users/kevinwa" +
+    "n/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/" +
+    "fab/internal/_fab.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/internal/_shared.scss|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/fab/internal/_shared.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/fab/_fab.scss|/Users/kevinwan/Documen" +
+    "ts/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/fab/_fab." +
+    "scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/filled-field.d.ts|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/field/filled-field.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/filled-field.js|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/f" +
+    "ield/filled-field.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/filled-field.js.map|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/field/filled-field.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/harness.d.ts|/Users/kevinwan/Do" +
+    "cuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/fiel" +
+    "d/harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/harness.js|/Users/kevinwan/Docu" +
+    "ments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/field/" +
+    "harness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/harness.js.map|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/fi" +
+    "eld/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/field.d.ts|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/field/internal/field.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/field.js|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/field/internal/field.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/field.js.map|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/field/internal/field.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/filled-field.d.ts|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/field/internal/filled-field.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/filled-field.js|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/field/internal/filled-field.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/filled-field.js.map|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/field/internal/filled-field.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/filled-styles.css.d.ts" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/field/internal/filled-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/filled-styles.css.js|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/field/internal/filled-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/filled-styles.css.js.m" +
+    "ap|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/field/internal/filled-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/filled-styles.scss|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/field/internal/filled-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/outlined-field.d.ts|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/field/internal/outlined-field.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/outlined-field.js|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/field/internal/outlined-field.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/outlined-field.js.map|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/field/internal/outlined-field.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/outlined-styles.css.d." +
+    "ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/field/internal/outlined-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/outlined-styles.css.js" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/field/internal/outlined-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/outlined-styles.css.js" +
+    ".map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/field/internal/outlined-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/outlined-styles.scss|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/field/internal/outlined-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/shared-styles.css.d.ts" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/field/internal/shared-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/shared-styles.css.js|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/field/internal/shared-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/shared-styles.css.js.m" +
+    "ap|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/field/internal/shared-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/shared-styles.scss|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/field/internal/shared-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/_content.scss|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/field/internal/_content.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/_filled-field.scss|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/field/internal/_filled-field.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/_label.scss|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/field/internal/_label.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/_outlined-field.scss|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/field/internal/_outlined-field.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/_shared.scss|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/field/internal/_shared.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/internal/_supporting-text.scss|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/field/internal/_supporting-text.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/outlined-field.d.ts|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/field/outlined-field.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/outlined-field.js|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/field/outlined-field.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/outlined-field.js.map|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/field/outlined-field.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/_filled-field.scss|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/field/_filled-field.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/field/_outlined-field.scss|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/field/_outlined-field.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/focus/internal/focus-ring-styles.css." +
+    "d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/focus/internal/focus-ring-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/focus/internal/focus-ring-styles.css." +
+    "js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/focus/internal/focus-ring-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/focus/internal/focus-ring-styles.css." +
+    "js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/focus/internal/focus-ring-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/focus/internal/focus-ring-styles.scss" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/focus/internal/focus-ring-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/focus/internal/focus-ring.d.ts|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/focus/internal/focus-ring.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/focus/internal/focus-ring.js|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/focus/internal/focus-ring.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/focus/internal/focus-ring.js.map|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/focus/internal/focus-ring.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/focus/internal/_focus-ring.scss|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/focus/internal/_focus-ring.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/focus/md-focus-ring.d.ts|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/focus/md-focus-ring.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/focus/md-focus-ring.js|/Users/kevinwa" +
+    "n/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/" +
+    "focus/md-focus-ring.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/focus/md-focus-ring.js.map|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/focus/md-focus-ring.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/focus/_focus-ring.scss|/Users/kevinwa" +
+    "n/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/" +
+    "focus/_focus-ring.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/icon/icon.d.ts|/Users/kevinwan/Docume" +
+    "nts/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/icon/ico" +
+    "n.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/icon/icon.js|/Users/kevinwan/Document" +
+    "s/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/icon/icon." +
+    "js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/icon/icon.js.map|/Users/kevinwan/Docu" +
+    "ments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/icon/i" +
+    "con.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/icon/internal/icon-styles.css.d.ts|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/icon/internal/icon-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/icon/internal/icon-styles.css.js|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/icon/internal/icon-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/icon/internal/icon-styles.css.js.map|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/icon/internal/icon-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/icon/internal/icon-styles.scss|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/icon/internal/icon-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/icon/internal/icon.d.ts|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/icon/internal/icon.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/icon/internal/icon.js|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/i" +
+    "con/internal/icon.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/icon/internal/icon.js.map|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/icon/internal/icon.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/icon/internal/_icon.scss|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/icon/internal/_icon.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/icon/_icon.scss|/Users/kevinwan/Docum" +
+    "ents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/icon/_i" +
+    "con.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/filled-icon-button.d.ts|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/iconbutton/filled-icon-button.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/filled-icon-button.js|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/iconbutton/filled-icon-button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/filled-icon-button.js.map|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/iconbutton/filled-icon-button.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/filled-tonal-icon-button.d" +
+    ".ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/iconbutton/filled-tonal-icon-button.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/filled-tonal-icon-button.j" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/iconbutton/filled-tonal-icon-button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/filled-tonal-icon-button.j" +
+    "s.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/iconbutton/filled-tonal-icon-button.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/harness.d.ts|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/iconbutton/harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/harness.js|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/i" +
+    "conbutton/harness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/harness.js.map|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/iconbutton/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/icon-button.d.ts|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/iconbutton/icon-button.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/icon-button.js|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/iconbutton/icon-button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/icon-button.js.map|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/iconbutton/icon-button.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/filled-styles.css" +
+    ".d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/iconbutton/internal/filled-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/filled-styles.css" +
+    ".js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/iconbutton/internal/filled-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/filled-styles.css" +
+    ".js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/iconbutton/internal/filled-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/filled-styles.scs" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/iconbutton/internal/filled-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/filled-tonal-styl" +
+    "es.css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewT" +
+    "heme/wwwroot/material/web/iconbutton/internal/filled-tonal-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/filled-tonal-styl" +
+    "es.css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/iconbutton/internal/filled-tonal-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/filled-tonal-styl" +
+    "es.css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/Ne" +
+    "wTheme/wwwroot/material/web/iconbutton/internal/filled-tonal-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/filled-tonal-styl" +
+    "es.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/iconbutton/internal/filled-tonal-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/icon-button.d.ts|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/iconbutton/internal/icon-button.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/icon-button.js|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/iconbutton/internal/icon-button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/icon-button.js.ma" +
+    "p|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/iconbutton/internal/icon-button.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/outlined-styles.c" +
+    "ss.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/iconbutton/internal/outlined-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/outlined-styles.c" +
+    "ss.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/iconbutton/internal/outlined-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/outlined-styles.c" +
+    "ss.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/iconbutton/internal/outlined-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/outlined-styles.s" +
+    "css|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/iconbutton/internal/outlined-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/shared-styles.css" +
+    ".d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/iconbutton/internal/shared-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/shared-styles.css" +
+    ".js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/iconbutton/internal/shared-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/shared-styles.css" +
+    ".js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/iconbutton/internal/shared-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/shared-styles.scs" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/iconbutton/internal/shared-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/standard-styles.c" +
+    "ss.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/iconbutton/internal/standard-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/standard-styles.c" +
+    "ss.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/iconbutton/internal/standard-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/standard-styles.c" +
+    "ss.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/iconbutton/internal/standard-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/standard-styles.s" +
+    "css|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/iconbutton/internal/standard-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/_filled-icon-butt" +
+    "on.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/iconbutton/internal/_filled-icon-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/_filled-tonal-ico" +
+    "n-button.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/Ne" +
+    "wTheme/wwwroot/material/web/iconbutton/internal/_filled-tonal-icon-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/_icon-button.scss" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/iconbutton/internal/_icon-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/_outlined-icon-bu" +
+    "tton.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/iconbutton/internal/_outlined-icon-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/internal/_shared.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/iconbutton/internal/_shared.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/outlined-icon-button.d.ts|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/iconbutton/outlined-icon-button.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/outlined-icon-button.js|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/iconbutton/outlined-icon-button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/outlined-icon-button.js.ma" +
+    "p|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/iconbutton/outlined-icon-button.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/_filled-icon-button.scss|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/iconbutton/_filled-icon-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/_filled-tonal-icon-button." +
+    "scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/iconbutton/_filled-tonal-icon-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/_icon-button.scss|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/iconbutton/_icon-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/iconbutton/_outlined-icon-button.scss" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/iconbutton/_outlined-icon-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/aria/aria.d.ts|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/internal/aria/aria.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/aria/aria.js|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/i" +
+    "nternal/aria/aria.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/aria/aria.js.map|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/internal/aria/aria.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/aria/delegate.d.ts|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/internal/aria/delegate.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/aria/delegate.js|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/internal/aria/delegate.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/aria/delegate.js.map|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/internal/aria/delegate.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/controller/attachable-contro" +
+    "ller.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/internal/controller/attachable-controller.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/controller/attachable-contro" +
+    "ller.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/internal/controller/attachable-controller.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/controller/attachable-contro" +
+    "ller.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewT" +
+    "heme/wwwroot/material/web/internal/controller/attachable-controller.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/controller/events.d.ts|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/internal/controller/events.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/controller/events.js|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/internal/controller/events.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/controller/events.js.map|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/internal/controller/events.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/controller/form-submitter.d." +
+    "ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/internal/controller/form-submitter.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/controller/form-submitter.js" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/internal/controller/form-submitter.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/controller/form-submitter.js" +
+    ".map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/internal/controller/form-submitter.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/controller/is-rtl.d.ts|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/internal/controller/is-rtl.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/controller/is-rtl.js|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/internal/controller/is-rtl.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/controller/is-rtl.js.map|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/internal/controller/is-rtl.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/controller/string-converter." +
+    "d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/internal/controller/string-converter.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/controller/string-converter." +
+    "js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/internal/controller/string-converter.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/controller/string-converter." +
+    "js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/internal/controller/string-converter.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/motion/animation.d.ts|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/internal/motion/animation.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/motion/animation.js|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/internal/motion/animation.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/motion/animation.js.map|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/internal/motion/animation.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/motion/_animation.scss|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/internal/motion/_animation.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/README.md|/Users/kevinwan/Do" +
+    "cuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/inte" +
+    "rnal/README.md")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/sass/_string-ext.scss|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/internal/sass/_string-ext.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/internal/sass/_var.scss|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/internal/sass/_var.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/badge/badge.d.ts|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/l" +
+    "abs/badge/badge.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/badge/badge.js|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/lab" +
+    "s/badge/badge.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/badge/badge.js.map|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/labs/badge/badge.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/badge/internal/badge-styles.css." +
+    "d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/labs/badge/internal/badge-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/badge/internal/badge-styles.css." +
+    "js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/labs/badge/internal/badge-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/badge/internal/badge-styles.css." +
+    "js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/labs/badge/internal/badge-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/badge/internal/badge-styles.scss" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/labs/badge/internal/badge-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/badge/internal/badge.d.ts|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/labs/badge/internal/badge.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/badge/internal/badge.js|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/labs/badge/internal/badge.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/badge/internal/badge.js.map|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/labs/badge/internal/badge.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/badge/internal/_badge.scss|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/labs/badge/internal/_badge.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/badge/_badge.scss|/Users/kevinwa" +
+    "n/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/" +
+    "labs/badge/_badge.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/constraint-validation." +
+    "d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/labs/behaviors/constraint-validation.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/constraint-validation." +
+    "js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/labs/behaviors/constraint-validation.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/constraint-validation." +
+    "js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/labs/behaviors/constraint-validation.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/element-internals.d.ts" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/labs/behaviors/element-internals.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/element-internals.js|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/labs/behaviors/element-internals.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/element-internals.js.m" +
+    "ap|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/labs/behaviors/element-internals.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/focusable.d.ts|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/labs/behaviors/focusable.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/focusable.js|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/labs/behaviors/focusable.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/focusable.js.map|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/labs/behaviors/focusable.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/form-associated.d.ts|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/labs/behaviors/form-associated.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/form-associated.js|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/labs/behaviors/form-associated.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/form-associated.js.map" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/labs/behaviors/form-associated.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/mixin.d.ts|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/labs/behaviors/mixin.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/mixin.js|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/labs/behaviors/mixin.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/mixin.js.map|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/labs/behaviors/mixin.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/on-report-validity.d.t" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/labs/behaviors/on-report-validity.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/on-report-validity.js|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/labs/behaviors/on-report-validity.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/on-report-validity.js." +
+    "map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/labs/behaviors/on-report-validity.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/validators/checkbox-va" +
+    "lidator.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/New" +
+    "Theme/wwwroot/material/web/labs/behaviors/validators/checkbox-validator.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/validators/checkbox-va" +
+    "lidator.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTh" +
+    "eme/wwwroot/material/web/labs/behaviors/validators/checkbox-validator.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/validators/checkbox-va" +
+    "lidator.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/N" +
+    "ewTheme/wwwroot/material/web/labs/behaviors/validators/checkbox-validator.js.map" +
+    "")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/validators/radio-valid" +
+    "ator.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/labs/behaviors/validators/radio-validator.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/validators/radio-valid" +
+    "ator.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/labs/behaviors/validators/radio-validator.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/validators/radio-valid" +
+    "ator.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewT" +
+    "heme/wwwroot/material/web/labs/behaviors/validators/radio-validator.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/validators/select-vali" +
+    "dator.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTh" +
+    "eme/wwwroot/material/web/labs/behaviors/validators/select-validator.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/validators/select-vali" +
+    "dator.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/labs/behaviors/validators/select-validator.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/validators/select-vali" +
+    "dator.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/New" +
+    "Theme/wwwroot/material/web/labs/behaviors/validators/select-validator.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/validators/text-field-" +
+    "validator.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/N" +
+    "ewTheme/wwwroot/material/web/labs/behaviors/validators/text-field-validator.d.ts" +
+    "")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/validators/text-field-" +
+    "validator.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/New" +
+    "Theme/wwwroot/material/web/labs/behaviors/validators/text-field-validator.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/validators/text-field-" +
+    "validator.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment" +
+    "/NewTheme/wwwroot/material/web/labs/behaviors/validators/text-field-validator.js" +
+    ".map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/validators/validator.d" +
+    ".ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/labs/behaviors/validators/validator.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/validators/validator.j" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/labs/behaviors/validators/validator.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/behaviors/validators/validator.j" +
+    "s.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/labs/behaviors/validators/validator.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/elevated-card.d.ts|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/labs/card/elevated-card.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/elevated-card.js|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/labs/card/elevated-card.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/elevated-card.js.map|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/labs/card/elevated-card.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/filled-card.d.ts|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/labs/card/filled-card.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/filled-card.js|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/labs/card/filled-card.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/filled-card.js.map|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/labs/card/filled-card.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/card.d.ts|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/labs/card/internal/card.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/card.js|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/labs/card/internal/card.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/card.js.map|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/labs/card/internal/card.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/elevated-styles.cs" +
+    "s.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/labs/card/internal/elevated-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/elevated-styles.cs" +
+    "s.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/labs/card/internal/elevated-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/elevated-styles.cs" +
+    "s.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/labs/card/internal/elevated-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/elevated-styles.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/labs/card/internal/elevated-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/filled-styles.css." +
+    "d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/labs/card/internal/filled-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/filled-styles.css." +
+    "js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/labs/card/internal/filled-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/filled-styles.css." +
+    "js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/labs/card/internal/filled-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/filled-styles.scss" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/labs/card/internal/filled-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/outlined-styles.cs" +
+    "s.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/labs/card/internal/outlined-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/outlined-styles.cs" +
+    "s.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/labs/card/internal/outlined-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/outlined-styles.cs" +
+    "s.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/labs/card/internal/outlined-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/outlined-styles.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/labs/card/internal/outlined-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/shared-styles.css." +
+    "d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/labs/card/internal/shared-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/shared-styles.css." +
+    "js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/labs/card/internal/shared-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/shared-styles.css." +
+    "js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/labs/card/internal/shared-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/shared-styles.scss" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/labs/card/internal/shared-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/_elevated-card.scs" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/labs/card/internal/_elevated-card.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/_filled-card.scss|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/labs/card/internal/_filled-card.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/_outlined-card.scs" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/labs/card/internal/_outlined-card.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/internal/_shared.scss|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/labs/card/internal/_shared.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/outlined-card.d.ts|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/labs/card/outlined-card.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/outlined-card.js|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/labs/card/outlined-card.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/outlined-card.js.map|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/labs/card/outlined-card.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/_elevated-card.scss|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/labs/card/_elevated-card.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/_filled-card.scss|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/labs/card/_filled-card.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/card/_outlined-card.scss|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/labs/card/_outlined-card.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/item/internal/item-styles.css.d." +
+    "ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/labs/item/internal/item-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/item/internal/item-styles.css.js" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/labs/item/internal/item-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/item/internal/item-styles.css.js" +
+    ".map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/labs/item/internal/item-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/item/internal/item-styles.scss|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/labs/item/internal/item-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/item/internal/item.d.ts|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/labs/item/internal/item.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/item/internal/item.js|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/labs/item/internal/item.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/item/internal/item.js.map|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/labs/item/internal/item.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/item/internal/_item.scss|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/labs/item/internal/_item.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/item/item.d.ts|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/lab" +
+    "s/item/item.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/item/item.js|/Users/kevinwan/Doc" +
+    "uments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/" +
+    "item/item.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/item/item.js.map|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/l" +
+    "abs/item/item.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/harness.d.ts|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/labs/navigationbar/harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/harness.js|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/labs/navigationbar/harness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/harness.js.map|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/labs/navigationbar/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/internal/constants" +
+    ".d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/labs/navigationbar/internal/constants.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/internal/constants" +
+    ".js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/labs/navigationbar/internal/constants.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/internal/constants" +
+    ".js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/labs/navigationbar/internal/constants.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/internal/navigatio" +
+    "n-bar-styles.css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelo" +
+    "pment/NewTheme/wwwroot/material/web/labs/navigationbar/internal/navigation-bar-s" +
+    "tyles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/internal/navigatio" +
+    "n-bar-styles.css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopm" +
+    "ent/NewTheme/wwwroot/material/web/labs/navigationbar/internal/navigation-bar-sty" +
+    "les.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/internal/navigation-bar-styles.css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/navigationbar/internal/navigation-bar-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/internal/navigatio" +
+    "n-bar-styles.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopmen" +
+    "t/NewTheme/wwwroot/material/web/labs/navigationbar/internal/navigation-bar-style" +
+    "s.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/internal/navigatio" +
+    "n-bar.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTh" +
+    "eme/wwwroot/material/web/labs/navigationbar/internal/navigation-bar.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/internal/navigatio" +
+    "n-bar.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/labs/navigationbar/internal/navigation-bar.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/internal/navigatio" +
+    "n-bar.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/New" +
+    "Theme/wwwroot/material/web/labs/navigationbar/internal/navigation-bar.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/internal/state.d.t" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/labs/navigationbar/internal/state.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/internal/state.js|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/labs/navigationbar/internal/state.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/internal/state.js." +
+    "map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/labs/navigationbar/internal/state.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/internal/_navigati" +
+    "on-bar.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewT" +
+    "heme/wwwroot/material/web/labs/navigationbar/internal/_navigation-bar.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/navigation-bar.d.t" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/labs/navigationbar/navigation-bar.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/navigation-bar.js|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/labs/navigationbar/navigation-bar.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/navigation-bar.js." +
+    "map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/labs/navigationbar/navigation-bar.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationbar/_navigation-bar.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/labs/navigationbar/_navigation-bar.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-modal-styles.css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-modal-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-modal-styles.css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-modal-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-modal-styles.css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-modal-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-modal-styles.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-modal-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-modal.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-modal.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/naviga" +
+    "tion-drawer-modal.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelop" +
+    "ment/NewTheme/wwwroot/material/web/labs/navigationdrawer/internal/navigation-dra" +
+    "wer-modal.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-modal.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-modal.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-styles.css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-styles.css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-styles.css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-styles.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/naviga" +
+    "tion-drawer.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment" +
+    "/NewTheme/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer." +
+    "d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/naviga" +
+    "tion-drawer.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/N" +
+    "ewTheme/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawer.js" +
+    "")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/naviga" +
+    "tion-drawer.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopme" +
+    "nt/NewTheme/wwwroot/material/web/labs/navigationdrawer/internal/navigation-drawe" +
+    "r.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/shared" +
+    "-styles.css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment" +
+    "/NewTheme/wwwroot/material/web/labs/navigationdrawer/internal/shared-styles.css." +
+    "d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/shared" +
+    "-styles.css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/N" +
+    "ewTheme/wwwroot/material/web/labs/navigationdrawer/internal/shared-styles.css.js" +
+    "")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/shared" +
+    "-styles.css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopme" +
+    "nt/NewTheme/wwwroot/material/web/labs/navigationdrawer/internal/shared-styles.cs" +
+    "s.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/shared" +
+    "-styles.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/New" +
+    "Theme/wwwroot/material/web/labs/navigationdrawer/internal/shared-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/_navigation-drawer-modal.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/navigationdrawer/internal/_navigation-drawer-modal.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/_navig" +
+    "ation-drawer.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopmen" +
+    "t/NewTheme/wwwroot/material/web/labs/navigationdrawer/internal/_navigation-drawe" +
+    "r.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/internal/_share" +
+    "d.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/labs/navigationdrawer/internal/_shared.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/navigation-draw" +
+    "er-modal.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/Ne" +
+    "wTheme/wwwroot/material/web/labs/navigationdrawer/navigation-drawer-modal.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/navigation-draw" +
+    "er-modal.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewT" +
+    "heme/wwwroot/material/web/labs/navigationdrawer/navigation-drawer-modal.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/navigation-draw" +
+    "er-modal.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/" +
+    "NewTheme/wwwroot/material/web/labs/navigationdrawer/navigation-drawer-modal.js.m" +
+    "ap")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/navigation-draw" +
+    "er.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/labs/navigationdrawer/navigation-drawer.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/navigation-draw" +
+    "er.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/labs/navigationdrawer/navigation-drawer.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/navigation-draw" +
+    "er.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/labs/navigationdrawer/navigation-drawer.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/_navigation-dra" +
+    "wer-modal.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/N" +
+    "ewTheme/wwwroot/material/web/labs/navigationdrawer/_navigation-drawer-modal.scss" +
+    "")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationdrawer/_navigation-dra" +
+    "wer.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/labs/navigationdrawer/_navigation-drawer.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationtab/harness.d.ts|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/labs/navigationtab/harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationtab/harness.js|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/labs/navigationtab/harness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationtab/harness.js.map|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/labs/navigationtab/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationtab/internal/navigatio" +
+    "n-tab-styles.css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelo" +
+    "pment/NewTheme/wwwroot/material/web/labs/navigationtab/internal/navigation-tab-s" +
+    "tyles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationtab/internal/navigatio" +
+    "n-tab-styles.css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopm" +
+    "ent/NewTheme/wwwroot/material/web/labs/navigationtab/internal/navigation-tab-sty" +
+    "les.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationtab/internal/navigation-tab-styles.css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/navigationtab/internal/navigation-tab-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationtab/internal/navigatio" +
+    "n-tab-styles.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopmen" +
+    "t/NewTheme/wwwroot/material/web/labs/navigationtab/internal/navigation-tab-style" +
+    "s.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationtab/internal/navigatio" +
+    "n-tab.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTh" +
+    "eme/wwwroot/material/web/labs/navigationtab/internal/navigation-tab.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationtab/internal/navigatio" +
+    "n-tab.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/labs/navigationtab/internal/navigation-tab.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationtab/internal/navigatio" +
+    "n-tab.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/New" +
+    "Theme/wwwroot/material/web/labs/navigationtab/internal/navigation-tab.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationtab/internal/state.d.t" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/labs/navigationtab/internal/state.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationtab/internal/state.js|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/labs/navigationtab/internal/state.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationtab/internal/state.js." +
+    "map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/labs/navigationtab/internal/state.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationtab/internal/_navigati" +
+    "on-tab.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewT" +
+    "heme/wwwroot/material/web/labs/navigationtab/internal/_navigation-tab.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationtab/navigation-tab.d.t" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/labs/navigationtab/navigation-tab.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationtab/navigation-tab.js|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/labs/navigationtab/navigation-tab.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationtab/navigation-tab.js." +
+    "map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/labs/navigationtab/navigation-tab.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/navigationtab/_navigation-tab.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/labs/navigationtab/_navigation-tab.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/README.md|/Users/kevinwan/Docume" +
+    "nts/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/REA" +
+    "DME.md")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/internal/outlined-segmented-button.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/segmentedbutton/internal/outlined-segmented-button.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/internal/outline" +
+    "d-segmented-button.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelo" +
+    "pment/NewTheme/wwwroot/material/web/labs/segmentedbutton/internal/outlined-segme" +
+    "nted-button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/internal/outlined-segmented-button.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/segmentedbutton/internal/outlined-segmented-button.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/internal/outline" +
+    "d-styles.css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopmen" +
+    "t/NewTheme/wwwroot/material/web/labs/segmentedbutton/internal/outlined-styles.cs" +
+    "s.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/internal/outline" +
+    "d-styles.css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/" +
+    "NewTheme/wwwroot/material/web/labs/segmentedbutton/internal/outlined-styles.css." +
+    "js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/internal/outline" +
+    "d-styles.css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopm" +
+    "ent/NewTheme/wwwroot/material/web/labs/segmentedbutton/internal/outlined-styles." +
+    "css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/internal/outline" +
+    "d-styles.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/Ne" +
+    "wTheme/wwwroot/material/web/labs/segmentedbutton/internal/outlined-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/internal/segment" +
+    "ed-button.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/N" +
+    "ewTheme/wwwroot/material/web/labs/segmentedbutton/internal/segmented-button.d.ts" +
+    "")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/internal/segment" +
+    "ed-button.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/New" +
+    "Theme/wwwroot/material/web/labs/segmentedbutton/internal/segmented-button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/internal/segment" +
+    "ed-button.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment" +
+    "/NewTheme/wwwroot/material/web/labs/segmentedbutton/internal/segmented-button.js" +
+    ".map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/internal/shared-" +
+    "styles.css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/" +
+    "NewTheme/wwwroot/material/web/labs/segmentedbutton/internal/shared-styles.css.d." +
+    "ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/internal/shared-" +
+    "styles.css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/Ne" +
+    "wTheme/wwwroot/material/web/labs/segmentedbutton/internal/shared-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/internal/shared-" +
+    "styles.css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopmen" +
+    "t/NewTheme/wwwroot/material/web/labs/segmentedbutton/internal/shared-styles.css." +
+    "js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/internal/shared-" +
+    "styles.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewT" +
+    "heme/wwwroot/material/web/labs/segmentedbutton/internal/shared-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/internal/_outlined-segmented-button.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/segmentedbutton/internal/_outlined-segmented-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/internal/_shared" +
+    ".scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/labs/segmentedbutton/internal/_shared.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/outlined-segment" +
+    "ed-button.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/N" +
+    "ewTheme/wwwroot/material/web/labs/segmentedbutton/outlined-segmented-button.d.ts" +
+    "")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/outlined-segment" +
+    "ed-button.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/New" +
+    "Theme/wwwroot/material/web/labs/segmentedbutton/outlined-segmented-button.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbutton/outlined-segment" +
+    "ed-button.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment" +
+    "/NewTheme/wwwroot/material/web/labs/segmentedbutton/outlined-segmented-button.js" +
+    ".map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/internal/outlined-segmented-button-set.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/segmentedbuttonset/internal/outlined-segmented-button-set.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/internal/outlined-segmented-button-set.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/segmentedbuttonset/internal/outlined-segmented-button-set.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/internal/outlined-segmented-button-set.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/segmentedbuttonset/internal/outlined-segmented-button-set.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/internal/outl" +
+    "ined-styles.css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelop" +
+    "ment/NewTheme/wwwroot/material/web/labs/segmentedbuttonset/internal/outlined-sty" +
+    "les.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/internal/outl" +
+    "ined-styles.css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopme" +
+    "nt/NewTheme/wwwroot/material/web/labs/segmentedbuttonset/internal/outlined-style" +
+    "s.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/internal/outlined-styles.css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/segmentedbuttonset/internal/outlined-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/internal/outl" +
+    "ined-styles.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment" +
+    "/NewTheme/wwwroot/material/web/labs/segmentedbuttonset/internal/outlined-styles." +
+    "scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/internal/segm" +
+    "ented-button-set.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelo" +
+    "pment/NewTheme/wwwroot/material/web/labs/segmentedbuttonset/internal/segmented-b" +
+    "utton-set.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/internal/segm" +
+    "ented-button-set.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopm" +
+    "ent/NewTheme/wwwroot/material/web/labs/segmentedbuttonset/internal/segmented-but" +
+    "ton-set.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/internal/segmented-button-set.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/segmentedbuttonset/internal/segmented-button-set.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/internal/shar" +
+    "ed-styles.css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopme" +
+    "nt/NewTheme/wwwroot/material/web/labs/segmentedbuttonset/internal/shared-styles." +
+    "css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/internal/shar" +
+    "ed-styles.css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment" +
+    "/NewTheme/wwwroot/material/web/labs/segmentedbuttonset/internal/shared-styles.cs" +
+    "s.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/internal/shar" +
+    "ed-styles.css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelop" +
+    "ment/NewTheme/wwwroot/material/web/labs/segmentedbuttonset/internal/shared-style" +
+    "s.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/internal/shar" +
+    "ed-styles.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/N" +
+    "ewTheme/wwwroot/material/web/labs/segmentedbuttonset/internal/shared-styles.scss" +
+    "")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/internal/_outlined-segmented-button-set.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/segmentedbuttonset/internal/_outlined-segmented-button-set.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/internal/_sha" +
+    "red.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/labs/segmentedbuttonset/internal/_shared.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/outlined-segm" +
+    "ented-button-set.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelo" +
+    "pment/NewTheme/wwwroot/material/web/labs/segmentedbuttonset/outlined-segmented-b" +
+    "utton-set.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/outlined-segm" +
+    "ented-button-set.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopm" +
+    "ent/NewTheme/wwwroot/material/web/labs/segmentedbuttonset/outlined-segmented-but" +
+    "ton-set.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute(@"Areas/ThemeDevelopment/wwwroot/material/web/labs/segmentedbuttonset/outlined-segmented-button-set.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/labs/segmentedbuttonset/outlined-segmented-button-set.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/LICENSE|/Users/kevinwan/Documents/Pro" +
+    "gramming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/LICENSE")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/harness.d.ts|/Users/kevinwan/Doc" +
+    "uments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/list/" +
+    "harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/harness.js|/Users/kevinwan/Docum" +
+    "ents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/list/ha" +
+    "rness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/harness.js.map|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/lis" +
+    "t/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/list-controller.d.ts|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/list/internal/list-controller.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/list-controller.js|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/list/internal/list-controller.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/list-controller.js.map|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/list/internal/list-controller.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/list-navigation-helpers" +
+    ".d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/list/internal/list-navigation-helpers.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/list-navigation-helpers" +
+    ".js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/list/internal/list-navigation-helpers.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/list-navigation-helpers" +
+    ".js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/list/internal/list-navigation-helpers.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/list-styles.css.d.ts|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/list/internal/list-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/list-styles.css.js|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/list/internal/list-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/list-styles.css.js.map|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/list/internal/list-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/list-styles.scss|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/list/internal/list-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/list.d.ts|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/list/internal/list.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/list.js|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/l" +
+    "ist/internal/list.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/list.js.map|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/list/internal/list.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/listitem/harness.d.ts|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/list/internal/listitem/harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/listitem/harness.js|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/list/internal/listitem/harness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/listitem/harness.js.map" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/list/internal/listitem/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/listitem/list-item-styl" +
+    "es.css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewT" +
+    "heme/wwwroot/material/web/list/internal/listitem/list-item-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/listitem/list-item-styl" +
+    "es.css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/list/internal/listitem/list-item-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/listitem/list-item-styl" +
+    "es.css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/Ne" +
+    "wTheme/wwwroot/material/web/list/internal/listitem/list-item-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/listitem/list-item-styl" +
+    "es.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/list/internal/listitem/list-item-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/listitem/list-item.d.ts" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/list/internal/listitem/list-item.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/listitem/list-item.js|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/list/internal/listitem/list-item.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/listitem/list-item.js.m" +
+    "ap|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/list/internal/listitem/list-item.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/listitem/_list-item.scs" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/list/internal/listitem/_list-item.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/internal/_list.scss|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/list/internal/_list.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/list-item.d.ts|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/lis" +
+    "t/list-item.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/list-item.js|/Users/kevinwan/Doc" +
+    "uments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/list/" +
+    "list-item.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/list-item.js.map|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/l" +
+    "ist/list-item.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/list.d.ts|/Users/kevinwan/Docume" +
+    "nts/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/list/lis" +
+    "t.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/list.js|/Users/kevinwan/Document" +
+    "s/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/list/list." +
+    "js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/list.js.map|/Users/kevinwan/Docu" +
+    "ments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/list/l" +
+    "ist.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/_list-item.scss|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/li" +
+    "st/_list-item.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/list/_list.scss|/Users/kevinwan/Docum" +
+    "ents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/list/_l" +
+    "ist.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/harness.d.ts|/Users/kevinwan/Doc" +
+    "uments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/menu/" +
+    "harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/harness.js|/Users/kevinwan/Docum" +
+    "ents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/menu/ha" +
+    "rness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/harness.js.map|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/men" +
+    "u/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/controllers/menuItemCon" +
+    "troller.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/New" +
+    "Theme/wwwroot/material/web/menu/internal/controllers/menuItemController.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/controllers/menuItemCon" +
+    "troller.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTh" +
+    "eme/wwwroot/material/web/menu/internal/controllers/menuItemController.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/controllers/menuItemCon" +
+    "troller.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/N" +
+    "ewTheme/wwwroot/material/web/menu/internal/controllers/menuItemController.js.map" +
+    "")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/controllers/shared.d.ts" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/menu/internal/controllers/shared.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/controllers/shared.js|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/menu/internal/controllers/shared.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/controllers/shared.js.m" +
+    "ap|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/menu/internal/controllers/shared.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/controllers/surfacePosi" +
+    "tionController.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopm" +
+    "ent/NewTheme/wwwroot/material/web/menu/internal/controllers/surfacePositionContr" +
+    "oller.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/controllers/surfacePosi" +
+    "tionController.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopmen" +
+    "t/NewTheme/wwwroot/material/web/menu/internal/controllers/surfacePositionControl" +
+    "ler.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/controllers/surfacePosi" +
+    "tionController.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelo" +
+    "pment/NewTheme/wwwroot/material/web/menu/internal/controllers/surfacePositionCon" +
+    "troller.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/controllers/typeaheadCo" +
+    "ntroller.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/Ne" +
+    "wTheme/wwwroot/material/web/menu/internal/controllers/typeaheadController.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/controllers/typeaheadCo" +
+    "ntroller.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewT" +
+    "heme/wwwroot/material/web/menu/internal/controllers/typeaheadController.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/controllers/typeaheadCo" +
+    "ntroller.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/" +
+    "NewTheme/wwwroot/material/web/menu/internal/controllers/typeaheadController.js.m" +
+    "ap")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/menu-styles.css.d.ts|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/menu/internal/menu-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/menu-styles.css.js|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/menu/internal/menu-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/menu-styles.css.js.map|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/menu/internal/menu-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/menu-styles.scss|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/menu/internal/menu-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/menu.d.ts|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/menu/internal/menu.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/menu.js|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/m" +
+    "enu/internal/menu.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/menu.js.map|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/menu/internal/menu.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/menuitem/harness.d.ts|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/menu/internal/menuitem/harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/menuitem/harness.js|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/menu/internal/menuitem/harness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/menuitem/harness.js.map" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/menu/internal/menuitem/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/menuitem/menu-item-styl" +
+    "es.css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewT" +
+    "heme/wwwroot/material/web/menu/internal/menuitem/menu-item-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/menuitem/menu-item-styl" +
+    "es.css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/menu/internal/menuitem/menu-item-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/menuitem/menu-item-styl" +
+    "es.css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/Ne" +
+    "wTheme/wwwroot/material/web/menu/internal/menuitem/menu-item-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/menuitem/menu-item-styl" +
+    "es.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/menu/internal/menuitem/menu-item-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/menuitem/menu-item.d.ts" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/menu/internal/menuitem/menu-item.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/menuitem/menu-item.js|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/menu/internal/menuitem/menu-item.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/menuitem/menu-item.js.m" +
+    "ap|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/menu/internal/menuitem/menu-item.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/menuitem/_menu-item.scs" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/menu/internal/menuitem/_menu-item.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/submenu/sub-menu-styles" +
+    ".css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/menu/internal/submenu/sub-menu-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/submenu/sub-menu-styles" +
+    ".css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/menu/internal/submenu/sub-menu-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/submenu/sub-menu-styles" +
+    ".css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewT" +
+    "heme/wwwroot/material/web/menu/internal/submenu/sub-menu-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/submenu/sub-menu-styles" +
+    ".scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/menu/internal/submenu/sub-menu-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/submenu/sub-menu.d.ts|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/menu/internal/submenu/sub-menu.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/submenu/sub-menu.js|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/menu/internal/submenu/sub-menu.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/submenu/sub-menu.js.map" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/menu/internal/submenu/sub-menu.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/submenu/_sub-menu.scss|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/menu/internal/submenu/_sub-menu.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/types.d.ts|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/menu/internal/types.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/types.js|/Users/kevinwa" +
+    "n/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/" +
+    "menu/internal/types.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/types.js.map|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/menu/internal/types.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/internal/_menu.scss|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/menu/internal/_menu.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/menu-item.d.ts|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/men" +
+    "u/menu-item.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/menu-item.js|/Users/kevinwan/Doc" +
+    "uments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/menu/" +
+    "menu-item.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/menu-item.js.map|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/m" +
+    "enu/menu-item.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/menu.d.ts|/Users/kevinwan/Docume" +
+    "nts/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/menu/men" +
+    "u.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/menu.js|/Users/kevinwan/Document" +
+    "s/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/menu/menu." +
+    "js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/menu.js.map|/Users/kevinwan/Docu" +
+    "ments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/menu/m" +
+    "enu.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/sub-menu.d.ts|/Users/kevinwan/Do" +
+    "cuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/menu" +
+    "/sub-menu.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/sub-menu.js|/Users/kevinwan/Docu" +
+    "ments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/menu/s" +
+    "ub-menu.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/sub-menu.js.map|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/me" +
+    "nu/sub-menu.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/_menu-item.scss|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/me" +
+    "nu/_menu-item.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/menu/_menu.scss|/Users/kevinwan/Docum" +
+    "ents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/menu/_m" +
+    "enu.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/package.json|/Users/kevinwan/Document" +
+    "s/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/package.js" +
+    "on")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/circular-progress.d.ts|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/progress/circular-progress.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/circular-progress.js|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/progress/circular-progress.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/circular-progress.js.map|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/progress/circular-progress.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/harness.d.ts|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/p" +
+    "rogress/harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/harness.js|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/pro" +
+    "gress/harness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/harness.js.map|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/progress/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/circular-progress-s" +
+    "tyles.css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/N" +
+    "ewTheme/wwwroot/material/web/progress/internal/circular-progress-styles.css.d.ts" +
+    "")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/circular-progress-s" +
+    "tyles.css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/New" +
+    "Theme/wwwroot/material/web/progress/internal/circular-progress-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/circular-progress-s" +
+    "tyles.css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment" +
+    "/NewTheme/wwwroot/material/web/progress/internal/circular-progress-styles.css.js" +
+    ".map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/circular-progress-s" +
+    "tyles.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTh" +
+    "eme/wwwroot/material/web/progress/internal/circular-progress-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/circular-progress.d" +
+    ".ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/progress/internal/circular-progress.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/circular-progress.j" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/progress/internal/circular-progress.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/circular-progress.j" +
+    "s.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/progress/internal/circular-progress.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/linear-progress-sty" +
+    "les.css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/New" +
+    "Theme/wwwroot/material/web/progress/internal/linear-progress-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/linear-progress-sty" +
+    "les.css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTh" +
+    "eme/wwwroot/material/web/progress/internal/linear-progress-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/linear-progress-sty" +
+    "les.css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/N" +
+    "ewTheme/wwwroot/material/web/progress/internal/linear-progress-styles.css.js.map" +
+    "")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/linear-progress-sty" +
+    "les.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/progress/internal/linear-progress-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/linear-progress.d.t" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/progress/internal/linear-progress.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/linear-progress.js|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/progress/internal/linear-progress.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/linear-progress.js." +
+    "map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/progress/internal/linear-progress.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/progress.d.ts|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/progress/internal/progress.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/progress.js|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/progress/internal/progress.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/progress.js.map|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/progress/internal/progress.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/_circular-progress." +
+    "scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/progress/internal/_circular-progress.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/internal/_linear-progress.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/progress/internal/_linear-progress.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/linear-progress.d.ts|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/progress/linear-progress.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/linear-progress.js|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/progress/linear-progress.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/linear-progress.js.map|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/progress/linear-progress.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/_circular-progress.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/progress/_circular-progress.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/progress/_linear-progress.scss|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/progress/_linear-progress.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/radio/harness.d.ts|/Users/kevinwan/Do" +
+    "cuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/radi" +
+    "o/harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/radio/harness.js|/Users/kevinwan/Docu" +
+    "ments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/radio/" +
+    "harness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/radio/harness.js.map|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/ra" +
+    "dio/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/radio/internal/radio-styles.css.d.ts|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/radio/internal/radio-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/radio/internal/radio-styles.css.js|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/radio/internal/radio-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/radio/internal/radio-styles.css.js.ma" +
+    "p|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/radio/internal/radio-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/radio/internal/radio-styles.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/radio/internal/radio-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/radio/internal/radio.d.ts|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/radio/internal/radio.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/radio/internal/radio.js|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/radio/internal/radio.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/radio/internal/radio.js.map|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/radio/internal/radio.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/radio/internal/single-selection-contr" +
+    "oller.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTh" +
+    "eme/wwwroot/material/web/radio/internal/single-selection-controller.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/radio/internal/single-selection-contr" +
+    "oller.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/radio/internal/single-selection-controller.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/radio/internal/single-selection-contr" +
+    "oller.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/New" +
+    "Theme/wwwroot/material/web/radio/internal/single-selection-controller.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/radio/internal/_radio.scss|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/radio/internal/_radio.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/radio/radio.d.ts|/Users/kevinwan/Docu" +
+    "ments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/radio/" +
+    "radio.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/radio/radio.js|/Users/kevinwan/Docume" +
+    "nts/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/radio/ra" +
+    "dio.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/radio/radio.js.map|/Users/kevinwan/Do" +
+    "cuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/radi" +
+    "o/radio.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/radio/_radio.scss|/Users/kevinwan/Doc" +
+    "uments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/radio" +
+    "/_radio.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/README.md|/Users/kevinwan/Documents/P" +
+    "rogramming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/README.md")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/ripple/internal/ripple-styles.css.d.t" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/ripple/internal/ripple-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/ripple/internal/ripple-styles.css.js|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/ripple/internal/ripple-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/ripple/internal/ripple-styles.css.js." +
+    "map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/ripple/internal/ripple-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/ripple/internal/ripple-styles.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/ripple/internal/ripple-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/ripple/internal/ripple.d.ts|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/ripple/internal/ripple.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/ripple/internal/ripple.js|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/ripple/internal/ripple.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/ripple/internal/ripple.js.map|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/ripple/internal/ripple.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/ripple/internal/_ripple.scss|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/ripple/internal/_ripple.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/ripple/ripple.d.ts|/Users/kevinwan/Do" +
+    "cuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/ripp" +
+    "le/ripple.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/ripple/ripple.js|/Users/kevinwan/Docu" +
+    "ments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/ripple" +
+    "/ripple.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/ripple/ripple.js.map|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/ri" +
+    "pple/ripple.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/ripple/_ripple.scss|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/rip" +
+    "ple/_ripple.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/filled-select.d.ts|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/select/filled-select.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/filled-select.js|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/select/filled-select.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/filled-select.js.map|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/select/filled-select.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/harness.d.ts|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/sel" +
+    "ect/harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/harness.js|/Users/kevinwan/Doc" +
+    "uments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/selec" +
+    "t/harness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/harness.js.map|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/s" +
+    "elect/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/filled-select-styles." +
+    "css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/select/internal/filled-select-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/filled-select-styles." +
+    "css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/select/internal/filled-select-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/filled-select-styles." +
+    "css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTh" +
+    "eme/wwwroot/material/web/select/internal/filled-select-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/filled-select-styles." +
+    "scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/select/internal/filled-select-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/filled-select.d.ts|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/select/internal/filled-select.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/filled-select.js|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/select/internal/filled-select.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/filled-select.js.map|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/select/internal/filled-select.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/outlined-select-style" +
+    "s.css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTh" +
+    "eme/wwwroot/material/web/select/internal/outlined-select-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/outlined-select-style" +
+    "s.css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/select/internal/outlined-select-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/outlined-select-style" +
+    "s.css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/New" +
+    "Theme/wwwroot/material/web/select/internal/outlined-select-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/outlined-select-style" +
+    "s.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/select/internal/outlined-select-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/outlined-select.d.ts|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/select/internal/outlined-select.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/outlined-select.js|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/select/internal/outlined-select.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/outlined-select.js.ma" +
+    "p|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/select/internal/outlined-select.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/select.d.ts|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/select/internal/select.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/select.js|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/select/internal/select.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/select.js.map|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/select/internal/select.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/selectoption/harness." +
+    "d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/select/internal/selectoption/harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/selectoption/harness." +
+    "js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/select/internal/selectoption/harness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/selectoption/harness." +
+    "js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/select/internal/selectoption/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/selectoption/select-o" +
+    "ption.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTh" +
+    "eme/wwwroot/material/web/select/internal/selectoption/select-option.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/selectoption/select-o" +
+    "ption.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/select/internal/selectoption/select-option.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/selectoption/select-o" +
+    "ption.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/New" +
+    "Theme/wwwroot/material/web/select/internal/selectoption/select-option.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/selectoption/selectOp" +
+    "tionController.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopm" +
+    "ent/NewTheme/wwwroot/material/web/select/internal/selectoption/selectOptionContr" +
+    "oller.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/selectoption/selectOp" +
+    "tionController.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopmen" +
+    "t/NewTheme/wwwroot/material/web/select/internal/selectoption/selectOptionControl" +
+    "ler.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/selectoption/selectOp" +
+    "tionController.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelo" +
+    "pment/NewTheme/wwwroot/material/web/select/internal/selectoption/selectOptionCon" +
+    "troller.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/shared-styles.css.d.t" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/select/internal/shared-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/shared-styles.css.js|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/select/internal/shared-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/shared-styles.css.js." +
+    "map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/select/internal/shared-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/shared-styles.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/select/internal/shared-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/shared.d.ts|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/select/internal/shared.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/shared.js|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/select/internal/shared.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/shared.js.map|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/select/internal/shared.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/_filled-select.scss|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/select/internal/_filled-select.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/_outlined-select.scss" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/select/internal/_outlined-select.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/internal/_shared.scss|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/select/internal/_shared.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/outlined-select.d.ts|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/select/outlined-select.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/outlined-select.js|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/select/outlined-select.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/outlined-select.js.map|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/select/outlined-select.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/select-option.d.ts|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/select/select-option.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/select-option.js|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/select/select-option.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/select-option.js.map|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/select/select-option.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/_filled-select.scss|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/select/_filled-select.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/select/_outlined-select.scss|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/select/_outlined-select.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/harness.d.ts|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/sli" +
+    "der/harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/harness.js|/Users/kevinwan/Doc" +
+    "uments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/slide" +
+    "r/harness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/harness.js.map|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/s" +
+    "lider/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/internal/forced-colors-styles." +
+    "css.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/slider/internal/forced-colors-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/internal/forced-colors-styles." +
+    "css.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/slider/internal/forced-colors-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/internal/forced-colors-styles." +
+    "css.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTh" +
+    "eme/wwwroot/material/web/slider/internal/forced-colors-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/internal/forced-colors-styles." +
+    "scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/slider/internal/forced-colors-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/internal/slider-styles.css.d.t" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/slider/internal/slider-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/internal/slider-styles.css.js|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/slider/internal/slider-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/internal/slider-styles.css.js." +
+    "map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/slider/internal/slider-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/internal/slider-styles.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/slider/internal/slider-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/internal/slider.d.ts|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/slider/internal/slider.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/internal/slider.js|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/slider/internal/slider.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/internal/slider.js.map|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/slider/internal/slider.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/internal/_slider.scss|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/slider/internal/_slider.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/slider.d.ts|/Users/kevinwan/Do" +
+    "cuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/slid" +
+    "er/slider.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/slider.js|/Users/kevinwan/Docu" +
+    "ments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/slider" +
+    "/slider.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/slider.js.map|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/sl" +
+    "ider/slider.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/slider/_slider.scss|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/sli" +
+    "der/_slider.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/harness.d.ts|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/swi" +
+    "tch/harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/harness.js|/Users/kevinwan/Doc" +
+    "uments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/switc" +
+    "h/harness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/harness.js.map|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/s" +
+    "witch/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/internal/README.md|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/switch/internal/README.md")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/internal/switch-styles.css.d.t" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/switch/internal/switch-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/internal/switch-styles.css.js|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/switch/internal/switch-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/internal/switch-styles.css.js." +
+    "map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/switch/internal/switch-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/internal/switch-styles.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/switch/internal/switch-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/internal/switch.d.ts|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/switch/internal/switch.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/internal/switch.js|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/switch/internal/switch.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/internal/switch.js.map|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/switch/internal/switch.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/internal/_handle.scss|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/switch/internal/_handle.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/internal/_icon.scss|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/switch/internal/_icon.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/internal/_switch.scss|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/switch/internal/_switch.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/internal/_track.scss|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/switch/internal/_track.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/switch.d.ts|/Users/kevinwan/Do" +
+    "cuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/swit" +
+    "ch/switch.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/switch.js|/Users/kevinwan/Docu" +
+    "ments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/switch" +
+    "/switch.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/switch.js.map|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/sw" +
+    "itch/switch.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/switch/_switch.scss|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/swi" +
+    "tch/_switch.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/harness.d.ts|/Users/kevinwan/Doc" +
+    "uments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/tabs/" +
+    "harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/harness.js|/Users/kevinwan/Docum" +
+    "ents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/tabs/ha" +
+    "rness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/harness.js.map|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/tab" +
+    "s/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/primary-tab-styles.css." +
+    "d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/tabs/internal/primary-tab-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/primary-tab-styles.css." +
+    "js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/tabs/internal/primary-tab-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/primary-tab-styles.css." +
+    "js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/tabs/internal/primary-tab-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/primary-tab-styles.scss" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/tabs/internal/primary-tab-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/primary-tab.d.ts|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/tabs/internal/primary-tab.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/primary-tab.js|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/tabs/internal/primary-tab.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/primary-tab.js.map|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/tabs/internal/primary-tab.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/secondary-tab-styles.cs" +
+    "s.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/tabs/internal/secondary-tab-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/secondary-tab-styles.cs" +
+    "s.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/tabs/internal/secondary-tab-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/secondary-tab-styles.cs" +
+    "s.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/tabs/internal/secondary-tab-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/secondary-tab-styles.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/tabs/internal/secondary-tab-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/secondary-tab.d.ts|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/tabs/internal/secondary-tab.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/secondary-tab.js|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/tabs/internal/secondary-tab.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/secondary-tab.js.map|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/tabs/internal/secondary-tab.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/tab-styles.css.d.ts|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/tabs/internal/tab-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/tab-styles.css.js|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/tabs/internal/tab-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/tab-styles.css.js.map|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/tabs/internal/tab-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/tab-styles.scss|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/tabs/internal/tab-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/tab.d.ts|/Users/kevinwa" +
+    "n/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/" +
+    "tabs/internal/tab.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/tab.js|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/ta" +
+    "bs/internal/tab.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/tab.js.map|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/tabs/internal/tab.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/tabs-styles.css.d.ts|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/tabs/internal/tabs-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/tabs-styles.css.js|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/tabs/internal/tabs-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/tabs-styles.css.js.map|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/tabs/internal/tabs-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/tabs-styles.scss|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/tabs/internal/tabs-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/tabs.d.ts|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/tabs/internal/tabs.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/tabs.js|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/t" +
+    "abs/internal/tabs.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/tabs.js.map|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/tabs/internal/tabs.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/_primary-tab.scss|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/tabs/internal/_primary-tab.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/_secondary-tab.scss|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/tabs/internal/_secondary-tab.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/_tab.scss|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/tabs/internal/_tab.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/internal/_tabs.scss|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/tabs/internal/_tabs.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/primary-tab.d.ts|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/t" +
+    "abs/primary-tab.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/primary-tab.js|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/tab" +
+    "s/primary-tab.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/primary-tab.js.map|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/tabs/primary-tab.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/secondary-tab.d.ts|/Users/kevinw" +
+    "an/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web" +
+    "/tabs/secondary-tab.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/secondary-tab.js|/Users/kevinwan" +
+    "/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/t" +
+    "abs/secondary-tab.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/secondary-tab.js.map|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/tabs/secondary-tab.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/tabs.d.ts|/Users/kevinwan/Docume" +
+    "nts/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/tabs/tab" +
+    "s.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/tabs.js|/Users/kevinwan/Document" +
+    "s/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/tabs/tabs." +
+    "js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/tabs.js.map|/Users/kevinwan/Docu" +
+    "ments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/tabs/t" +
+    "abs.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/_primary-tab.scss|/Users/kevinwa" +
+    "n/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/" +
+    "tabs/_primary-tab.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tabs/_secondary-tab.scss|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/tabs/_secondary-tab.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/filled-text-field.d.ts|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/textfield/filled-text-field.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/filled-text-field.js|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/textfield/filled-text-field.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/filled-text-field.js.map|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/textfield/filled-text-field.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/harness.d.ts|/Users/kevinwa" +
+    "n/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/" +
+    "textfield/harness.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/harness.js|/Users/kevinwan/" +
+    "Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/te" +
+    "xtfield/harness.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/harness.js.map|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/textfield/harness.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/filled-styles.css." +
+    "d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/textfield/internal/filled-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/filled-styles.css." +
+    "js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/textfield/internal/filled-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/filled-styles.css." +
+    "js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/textfield/internal/filled-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/filled-styles.scss" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/textfield/internal/filled-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/filled-text-field." +
+    "d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/textfield/internal/filled-text-field.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/filled-text-field." +
+    "js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/textfield/internal/filled-text-field.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/filled-text-field." +
+    "js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/textfield/internal/filled-text-field.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/outlined-styles.cs" +
+    "s.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/textfield/internal/outlined-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/outlined-styles.cs" +
+    "s.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/textfield/internal/outlined-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/outlined-styles.cs" +
+    "s.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/textfield/internal/outlined-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/outlined-styles.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/textfield/internal/outlined-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/outlined-text-fiel" +
+    "d.d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/textfield/internal/outlined-text-field.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/outlined-text-fiel" +
+    "d.js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/textfield/internal/outlined-text-field.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/outlined-text-fiel" +
+    "d.js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/textfield/internal/outlined-text-field.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/shared-styles.css." +
+    "d.ts|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/textfield/internal/shared-styles.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/shared-styles.css." +
+    "js|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/textfield/internal/shared-styles.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/shared-styles.css." +
+    "js.map|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/textfield/internal/shared-styles.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/shared-styles.scss" +
+    "|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroo" +
+    "t/material/web/textfield/internal/shared-styles.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/text-field.d.ts|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/textfield/internal/text-field.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/text-field.js|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/textfield/internal/text-field.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/text-field.js.map|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/textfield/internal/text-field.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/_filled-text-field" +
+    ".scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/textfield/internal/_filled-text-field.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/_icon.scss|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/textfield/internal/_icon.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/_input.scss|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/textfield/internal/_input.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/_outlined-text-fie" +
+    "ld.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/textfield/internal/_outlined-text-field.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/internal/_shared.scss|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/textfield/internal/_shared.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/outlined-text-field.d.ts|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/textfield/outlined-text-field.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/outlined-text-field.js|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/textfield/outlined-text-field.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/outlined-text-field.js.map|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/textfield/outlined-text-field.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/_filled-text-field.scss|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/textfield/_filled-text-field.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/textfield/_outlined-text-field.scss|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/textfield/_outlined-text-field.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/index.test.css.d.ts|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/tokens/v0_192/index.test.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/index.test.css.js|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/tokens/v0_192/index.test.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/index.test.css.js.map|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/tokens/v0_192/index.test.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/index.test.scss|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/tokens/v0_192/index.test.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/lib.test.css.d.ts|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/tokens/v0_192/lib.test.css.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/lib.test.css.js|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/tokens/v0_192/lib.test.css.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/lib.test.css.js.map|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/tokens/v0_192/lib.test.css.js.map")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/lib.test.scss|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/tokens/v0_192/lib.test.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_index.scss|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/tokens/v0_192/_index.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-assist-chip.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/tokens/v0_192/_md-comp-assist-chip.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-badge.scss|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/tokens/v0_192/_md-comp-badge.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-banner.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/tokens/v0_192/_md-comp-banner.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-bottom-app-bar" +
+    ".scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/tokens/v0_192/_md-comp-bottom-app-bar.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-carousel-item." +
+    "scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/tokens/v0_192/_md-comp-carousel-item.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-checkbox.scss|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/tokens/v0_192/_md-comp-checkbox.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-circular-progr" +
+    "ess-indicator.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopme" +
+    "nt/NewTheme/wwwroot/material/web/tokens/v0_192/_md-comp-circular-progress-indica" +
+    "tor.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-data-table.scs" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/tokens/v0_192/_md-comp-data-table.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-date-input-mod" +
+    "al.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme" +
+    "/wwwroot/material/web/tokens/v0_192/_md-comp-date-input-modal.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-date-picker-do" +
+    "cked.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/tokens/v0_192/_md-comp-date-picker-docked.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-date-picker-mo" +
+    "dal.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/tokens/v0_192/_md-comp-date-picker-modal.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-dialog.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/tokens/v0_192/_md-comp-dialog.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-divider.scss|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/tokens/v0_192/_md-comp-divider.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-elevated-butto" +
+    "n.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/tokens/v0_192/_md-comp-elevated-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-elevated-card." +
+    "scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/tokens/v0_192/_md-comp-elevated-card.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-extended-fab-b" +
+    "randed.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewT" +
+    "heme/wwwroot/material/web/tokens/v0_192/_md-comp-extended-fab-branded.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-extended-fab-p" +
+    "rimary.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewT" +
+    "heme/wwwroot/material/web/tokens/v0_192/_md-comp-extended-fab-primary.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-extended-fab-s" +
+    "econdary.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/Ne" +
+    "wTheme/wwwroot/material/web/tokens/v0_192/_md-comp-extended-fab-secondary.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-extended-fab-s" +
+    "urface.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewT" +
+    "heme/wwwroot/material/web/tokens/v0_192/_md-comp-extended-fab-surface.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-extended-fab-t" +
+    "ertiary.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/New" +
+    "Theme/wwwroot/material/web/tokens/v0_192/_md-comp-extended-fab-tertiary.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-fab-branded-la" +
+    "rge.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/tokens/v0_192/_md-comp-fab-branded-large.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-fab-branded.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/tokens/v0_192/_md-comp-fab-branded.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-fab-primary-la" +
+    "rge.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/tokens/v0_192/_md-comp-fab-primary-large.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-fab-primary-sm" +
+    "all.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/tokens/v0_192/_md-comp-fab-primary-small.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-fab-primary.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/tokens/v0_192/_md-comp-fab-primary.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-fab-secondary-" +
+    "large.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTh" +
+    "eme/wwwroot/material/web/tokens/v0_192/_md-comp-fab-secondary-large.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-fab-secondary-" +
+    "small.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTh" +
+    "eme/wwwroot/material/web/tokens/v0_192/_md-comp-fab-secondary-small.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-fab-secondary." +
+    "scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/tokens/v0_192/_md-comp-fab-secondary.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-fab-surface-la" +
+    "rge.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/tokens/v0_192/_md-comp-fab-surface-large.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-fab-surface-sm" +
+    "all.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/tokens/v0_192/_md-comp-fab-surface-small.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-fab-surface.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/tokens/v0_192/_md-comp-fab-surface.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-fab-tertiary-l" +
+    "arge.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/tokens/v0_192/_md-comp-fab-tertiary-large.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-fab-tertiary-s" +
+    "mall.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/tokens/v0_192/_md-comp-fab-tertiary-small.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-fab-tertiary.s" +
+    "css|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/tokens/v0_192/_md-comp-fab-tertiary.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-filled-autocom" +
+    "plete.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTh" +
+    "eme/wwwroot/material/web/tokens/v0_192/_md-comp-filled-autocomplete.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-filled-button." +
+    "scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/tokens/v0_192/_md-comp-filled-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-filled-card.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/tokens/v0_192/_md-comp-filled-card.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-filled-icon-bu" +
+    "tton.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/tokens/v0_192/_md-comp-filled-icon-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-filled-menu-bu" +
+    "tton.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/tokens/v0_192/_md-comp-filled-menu-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-filled-select." +
+    "scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/tokens/v0_192/_md-comp-filled-select.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-filled-text-fi" +
+    "eld.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/tokens/v0_192/_md-comp-filled-text-field.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-filled-tonal-b" +
+    "utton.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTh" +
+    "eme/wwwroot/material/web/tokens/v0_192/_md-comp-filled-tonal-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-filled-tonal-i" +
+    "con-button.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/" +
+    "NewTheme/wwwroot/material/web/tokens/v0_192/_md-comp-filled-tonal-icon-button.sc" +
+    "ss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-filter-chip.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/tokens/v0_192/_md-comp-filter-chip.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-full-screen-di" +
+    "alog.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/tokens/v0_192/_md-comp-full-screen-dialog.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-icon-button.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/tokens/v0_192/_md-comp-icon-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-input-chip.scs" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/tokens/v0_192/_md-comp-input-chip.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-linear-progres" +
+    "s-indicator.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment" +
+    "/NewTheme/wwwroot/material/web/tokens/v0_192/_md-comp-linear-progress-indicator." +
+    "scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-list.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/tokens/v0_192/_md-comp-list.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-menu.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/tokens/v0_192/_md-comp-menu.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-navigation-bar" +
+    ".scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/tokens/v0_192/_md-comp-navigation-bar.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-navigation-dra" +
+    "wer.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/tokens/v0_192/_md-comp-navigation-drawer.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-navigation-rai" +
+    "l.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/tokens/v0_192/_md-comp-navigation-rail.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-outlined-autoc" +
+    "omplete.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/New" +
+    "Theme/wwwroot/material/web/tokens/v0_192/_md-comp-outlined-autocomplete.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-outlined-butto" +
+    "n.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/tokens/v0_192/_md-comp-outlined-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-outlined-card." +
+    "scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/tokens/v0_192/_md-comp-outlined-card.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-outlined-icon-" +
+    "button.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewT" +
+    "heme/wwwroot/material/web/tokens/v0_192/_md-comp-outlined-icon-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-outlined-menu-" +
+    "button.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewT" +
+    "heme/wwwroot/material/web/tokens/v0_192/_md-comp-outlined-menu-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-outlined-segme" +
+    "nted-button.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment" +
+    "/NewTheme/wwwroot/material/web/tokens/v0_192/_md-comp-outlined-segmented-button." +
+    "scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-outlined-selec" +
+    "t.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/tokens/v0_192/_md-comp-outlined-select.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-outlined-text-" +
+    "field.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTh" +
+    "eme/wwwroot/material/web/tokens/v0_192/_md-comp-outlined-text-field.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-plain-tooltip." +
+    "scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/tokens/v0_192/_md-comp-plain-tooltip.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-primary-naviga" +
+    "tion-tab.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/Ne" +
+    "wTheme/wwwroot/material/web/tokens/v0_192/_md-comp-primary-navigation-tab.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-radio-button.s" +
+    "css|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/tokens/v0_192/_md-comp-radio-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-rich-tooltip.s" +
+    "css|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/tokens/v0_192/_md-comp-rich-tooltip.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-scrim.scss|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/tokens/v0_192/_md-comp-scrim.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-search-bar.scs" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/tokens/v0_192/_md-comp-search-bar.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-search-view.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/tokens/v0_192/_md-comp-search-view.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-secondary-navi" +
+    "gation-tab.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/" +
+    "NewTheme/wwwroot/material/web/tokens/v0_192/_md-comp-secondary-navigation-tab.sc" +
+    "ss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-sheet-bottom.s" +
+    "css|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/tokens/v0_192/_md-comp-sheet-bottom.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-sheet-floating" +
+    ".scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/w" +
+    "wwroot/material/web/tokens/v0_192/_md-comp-sheet-floating.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-sheet-side.scs" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/tokens/v0_192/_md-comp-sheet-side.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-slider.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/tokens/v0_192/_md-comp-slider.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-snackbar.scss|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/tokens/v0_192/_md-comp-snackbar.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-standard-menu-" +
+    "button.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewT" +
+    "heme/wwwroot/material/web/tokens/v0_192/_md-comp-standard-menu-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-suggestion-chi" +
+    "p.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/" +
+    "wwwroot/material/web/tokens/v0_192/_md-comp-suggestion-chip.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-switch.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/tokens/v0_192/_md-comp-switch.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-text-button.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/tokens/v0_192/_md-comp-text-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-time-input.scs" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/tokens/v0_192/_md-comp-time-input.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-time-picker.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/tokens/v0_192/_md-comp-time-picker.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-top-app-bar-la" +
+    "rge.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/tokens/v0_192/_md-comp-top-app-bar-large.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-top-app-bar-me" +
+    "dium.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/tokens/v0_192/_md-comp-top-app-bar-medium.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-top-app-bar-sm" +
+    "all-centered.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopmen" +
+    "t/NewTheme/wwwroot/material/web/tokens/v0_192/_md-comp-top-app-bar-small-centere" +
+    "d.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-comp-top-app-bar-sm" +
+    "all.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/tokens/v0_192/_md-comp-top-app-bar-small.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-ref-palette.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/tokens/v0_192/_md-ref-palette.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-ref-typeface.scss|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/tokens/v0_192/_md-ref-typeface.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-sys-color.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/tokens/v0_192/_md-sys-color.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-sys-elevation.scss|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/tokens/v0_192/_md-sys-elevation.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-sys-motion.scss|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/tokens/v0_192/_md-sys-motion.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-sys-shape.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/tokens/v0_192/_md-sys-shape.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-sys-state.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/tokens/v0_192/_md-sys-state.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/v0_192/_md-sys-typescale.scss|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/tokens/v0_192/_md-sys-typescale.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_index.scss|/Users/kevinwan/Do" +
+    "cuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/toke" +
+    "ns/_index.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-assist-chip.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/tokens/_md-comp-assist-chip.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-badge.scss|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/tokens/_md-comp-badge.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-checkbox.scss|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/tokens/_md-comp-checkbox.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-circular-progress.scs" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/tokens/_md-comp-circular-progress.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-dialog.scss|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/tokens/_md-comp-dialog.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-divider.scss|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/tokens/_md-comp-divider.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-elevated-button.scss|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/tokens/_md-comp-elevated-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-elevated-card.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/tokens/_md-comp-elevated-card.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-elevation.scss|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/tokens/_md-comp-elevation.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-fab-branded.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/tokens/_md-comp-fab-branded.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-fab.scss|/Users/kevin" +
+    "wan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/we" +
+    "b/tokens/_md-comp-fab.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-filled-button.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/tokens/_md-comp-filled-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-filled-card.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/tokens/_md-comp-filled-card.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-filled-field.scss|/Us" +
+    "ers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/ma" +
+    "terial/web/tokens/_md-comp-filled-field.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-filled-icon-button.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/tokens/_md-comp-filled-icon-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-filled-select.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/tokens/_md-comp-filled-select.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-filled-text-field.scs" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/tokens/_md-comp-filled-text-field.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-filled-tonal-button.s" +
+    "css|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/tokens/_md-comp-filled-tonal-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-filled-tonal-icon-but" +
+    "ton.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThem" +
+    "e/wwwroot/material/web/tokens/_md-comp-filled-tonal-icon-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-filter-chip.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/tokens/_md-comp-filter-chip.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-focus-ring.scss|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/tokens/_md-comp-focus-ring.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-full-screen-dialog.sc" +
+    "ss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwr" +
+    "oot/material/web/tokens/_md-comp-full-screen-dialog.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-icon-button.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/tokens/_md-comp-icon-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-icon.scss|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/tokens/_md-comp-icon.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-input-chip.scss|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/tokens/_md-comp-input-chip.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-item.scss|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/tokens/_md-comp-item.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-linear-progress.scss|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/tokens/_md-comp-linear-progress.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-list-item.scss|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/tokens/_md-comp-list-item.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-list.scss|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/tokens/_md-comp-list.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-menu-item.scss|/Users" +
+    "/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mater" +
+    "ial/web/tokens/_md-comp-menu-item.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-menu-list-item.scss|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/tokens/_md-comp-menu-list-item.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-menu.scss|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/tokens/_md-comp-menu.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-navigation-bar.scss|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/tokens/_md-comp-navigation-bar.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-navigation-drawer.scs" +
+    "s|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwro" +
+    "ot/material/web/tokens/_md-comp-navigation-drawer.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-outlined-button.scss|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/tokens/_md-comp-outlined-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-outlined-card.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/tokens/_md-comp-outlined-card.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-outlined-field.scss|/" +
+    "Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/" +
+    "material/web/tokens/_md-comp-outlined-field.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-outlined-icon-button." +
+    "scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ww" +
+    "wroot/material/web/tokens/_md-comp-outlined-icon-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-outlined-segmented-bu" +
+    "tton.scss|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewThe" +
+    "me/wwwroot/material/web/tokens/_md-comp-outlined-segmented-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-outlined-select.scss|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/tokens/_md-comp-outlined-select.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-outlined-text-field.s" +
+    "css|/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/www" +
+    "root/material/web/tokens/_md-comp-outlined-text-field.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-primary-tab.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/tokens/_md-comp-primary-tab.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-radio.scss|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/tokens/_md-comp-radio.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-ripple.scss|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/tokens/_md-comp-ripple.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-secondary-tab.scss|/U" +
+    "sers/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/m" +
+    "aterial/web/tokens/_md-comp-secondary-tab.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-slider.scss|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/tokens/_md-comp-slider.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-suggestion-chip.scss|" +
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot" +
+    "/material/web/tokens/_md-comp-suggestion-chip.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-switch.scss|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/tokens/_md-comp-switch.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-test-table.scss|/User" +
+    "s/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mate" +
+    "rial/web/tokens/_md-comp-test-table.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-comp-text-button.scss|/Use" +
+    "rs/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/mat" +
+    "erial/web/tokens/_md-comp-text-button.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-ref-palette.scss|/Users/ke" +
+    "vinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material" +
+    "/web/tokens/_md-ref-palette.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-ref-typeface.scss|/Users/k" +
+    "evinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materia" +
+    "l/web/tokens/_md-ref-typeface.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-sys-color.scss|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/tokens/_md-sys-color.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-sys-elevation.scss|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/tokens/_md-sys-elevation.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-sys-motion.scss|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/tokens/_md-sys-motion.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-sys-shape.scss|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/tokens/_md-sys-shape.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-sys-state.scss|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/tokens/_md-sys-state.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_md-sys-typescale.scss|/Users/" +
+    "kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/materi" +
+    "al/web/tokens/_md-sys-typescale.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/tokens/_values.scss|/Users/kevinwan/D" +
+    "ocuments/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/web/tok" +
+    "ens/_values.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/typography/_typeface.scss|/Users/kevi" +
+    "nwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/w" +
+    "eb/typography/_typeface.scss")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/typography/_typescale.scss|/Users/kev" +
+    "inwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/material/" +
+    "web/typography/_typescale.scss")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/Theme.png|/Users/kevinwan/Documents/Programming Pr" +
     "ojects/ThemeDevelopment/NewTheme/wwwroot/Theme.png")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/tslib/CopyrightNotice.txt|/Users/kevinwan/Document" +
+    "s/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/tslib/CopyrightNotice.t" +
+    "xt")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/tslib/LICENSE.txt|/Users/kevinwan/Documents/Progra" +
+    "mming Projects/ThemeDevelopment/NewTheme/wwwroot/tslib/LICENSE.txt")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/tslib/modules/index.d.ts|/Users/kevinwan/Documents" +
+    "/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/tslib/modules/index.d.ts" +
+    "")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/tslib/modules/index.js|/Users/kevinwan/Documents/P" +
+    "rogramming Projects/ThemeDevelopment/NewTheme/wwwroot/tslib/modules/index.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/tslib/modules/package.json|/Users/kevinwan/Documen" +
+    "ts/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/tslib/modules/package." +
+    "json")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/tslib/package.json|/Users/kevinwan/Documents/Progr" +
+    "amming Projects/ThemeDevelopment/NewTheme/wwwroot/tslib/package.json")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/tslib/README.md|/Users/kevinwan/Documents/Programm" +
+    "ing Projects/ThemeDevelopment/NewTheme/wwwroot/tslib/README.md")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/tslib/SECURITY.md|/Users/kevinwan/Documents/Progra" +
+    "mming Projects/ThemeDevelopment/NewTheme/wwwroot/tslib/SECURITY.md")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/tslib/tslib.d.ts|/Users/kevinwan/Documents/Program" +
+    "ming Projects/ThemeDevelopment/NewTheme/wwwroot/tslib/tslib.d.ts")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/tslib/tslib.es6.html|/Users/kevinwan/Documents/Pro" +
+    "gramming Projects/ThemeDevelopment/NewTheme/wwwroot/tslib/tslib.es6.html")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/tslib/tslib.es6.js|/Users/kevinwan/Documents/Progr" +
+    "amming Projects/ThemeDevelopment/NewTheme/wwwroot/tslib/tslib.es6.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/tslib/tslib.es6.mjs|/Users/kevinwan/Documents/Prog" +
+    "ramming Projects/ThemeDevelopment/NewTheme/wwwroot/tslib/tslib.es6.mjs")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/tslib/tslib.html|/Users/kevinwan/Documents/Program" +
+    "ming Projects/ThemeDevelopment/NewTheme/wwwroot/tslib/tslib.html")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/tslib/tslib.js|/Users/kevinwan/Documents/Programmi" +
+    "ng Projects/ThemeDevelopment/NewTheme/wwwroot/tslib/tslib.js")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThemeDevelopment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db6330c19edeaf8891af7e6e79d404073ac04b2a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c45c7228bb4f1cb74d097d5bdae3a0c6e8345796")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThemeDevelopment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThemeDevelopment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
