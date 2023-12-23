@@ -1,0 +1,8 @@
+@if (IsSectionDefined("Footer"))
+{
+    <footer>
+        <div class="container">
+            @await RenderSectionAsync("Footer", required: false)
+        </div>
+    </footer>
+}

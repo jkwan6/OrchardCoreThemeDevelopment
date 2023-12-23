@@ -24,6 +24,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="Views\MainLayout\_Body.cshtml" />
+    <Content Include="Views\MainLayout\_Footer.cshtml" />
+    <Content Include="Views\MainLayout\_Head.cshtml" />
+    <Content Include="Views\MainLayout\_Navbar.cshtml" />
     <Content Include="wwwroot\css\styles.css" />
   </ItemGroup>
 
