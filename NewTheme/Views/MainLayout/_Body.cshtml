@@ -2,39 +2,15 @@
 <div class="body-container">
     <div class="body-width">
         @await RenderSectionAsync("Header", required: false)
-
-
         <main class="container">
-            @await RenderSectionAsync("Messages", required: false)
-
-            <md-outlined-button>Back</md-outlined-button>
-            <md-filled-button>Complete</md-filled-button>
-
-            <div style="margin: 16px;">
-                <md-filled-button id="usage-popover-anchor">Open popover menu</md-filled-button>
-            </div>
-
-            <!-- popover menus do not require a common ancestor with the anchor. -->
-            <md-menu positioning="popover" id="usage-popover" anchor="usage-popover-anchor">
-                <md-menu-item>
-                    <div slot="headline">Apple</div>
-                </md-menu-item>
-                <md-menu-item>
-                    <div slot="headline">Banana</div>
-                </md-menu-item>
-                <md-menu-item>
-                    <div slot="headline">Cucumber</div>
-                </md-menu-item>
-            </md-menu>
-
-            <script type="module">
-  const anchorEl = document.body.querySelector('#usage-popover-anchor');
-  const menuEl = document.body.querySelector('#usage-popover');
-
-  anchorEl.addEventListener('click', () => { menuEl.open = !menuEl.open; });
-</script>
-
+            
+  <!-- Dropdown Trigger -->
+  <a class='dropdown-trigger btn' href='#' data-target='dropdown1'>Drop Me!</a>
+            
+  @await RenderSectionAsync("Messages", required: false)
             @await RenderBodyAsync()
+            @* @await Html.PartialAsync("../Search-Form.cshtml") *@
+            @* @await Html.PartialAsync("Search") *@
         </main>
     </div>
 </div>

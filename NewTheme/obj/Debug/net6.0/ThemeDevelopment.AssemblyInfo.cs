@@ -50,6 +50,17 @@ using System.Reflection;
     "ing Projects/ThemeDevelopment/NewTheme/Views/Home/Index.cshtml")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Layout.cshtml|/Users/kevinwan/Documents/Programming " +
     "Projects/ThemeDevelopment/NewTheme/Views/Layout.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/MainLayout/_Body.cshtml|/Users/kevinwan/Documents/Pr" +
+    "ogramming Projects/ThemeDevelopment/NewTheme/Views/MainLayout/_Body.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/MainLayout/_Footer.cshtml|/Users/kevinwan/Documents/" +
+    "Programming Projects/ThemeDevelopment/NewTheme/Views/MainLayout/_Footer.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/MainLayout/_Head.cshtml|/Users/kevinwan/Documents/Pr" +
+    "ogramming Projects/ThemeDevelopment/NewTheme/Views/MainLayout/_Head.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/MainLayout/_Material.cshtml|/Users/kevinwan/Document" +
+    "s/Programming Projects/ThemeDevelopment/NewTheme/Views/MainLayout/_Material.csht" +
+    "ml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/MainLayout/_Navbar.cshtml|/Users/kevinwan/Documents/" +
+    "Programming Projects/ThemeDevelopment/NewTheme/Views/MainLayout/_Navbar.cshtml")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Menu.cshtml|/Users/kevinwan/Documents/Programming Pr" +
     "ojects/ThemeDevelopment/NewTheme/Views/Menu.cshtml")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/MenuItem.cshtml|/Users/kevinwan/Documents/Programmin" +
@@ -63,14 +74,24 @@ using System.Reflection;
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/MenuItemLink-LinkMenuItem.cshtml|/Users/kevinwan/Doc" +
     "uments/Programming Projects/ThemeDevelopment/NewTheme/Views/MenuItemLink-LinkMen" +
     "uItem.cshtml")]
-[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Search-Form.liquid|/Users/kevinwan/Documents/Program" +
-    "ming Projects/ThemeDevelopment/NewTheme/Views/Search-Form.liquid")]
-[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Search-Results.liquid|/Users/kevinwan/Documents/Prog" +
-    "ramming Projects/ThemeDevelopment/NewTheme/Views/Search-Results.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Search-Form.cshtml|/Users/kevinwan/Documents/Program" +
+    "ming Projects/ThemeDevelopment/NewTheme/Views/Search-Form.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Search-List.cshtml|/Users/kevinwan/Documents/Program" +
+    "ming Projects/ThemeDevelopment/NewTheme/Views/Search-List.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Search-Results.cshtml|/Users/kevinwan/Documents/Prog" +
+    "ramming Projects/ThemeDevelopment/NewTheme/Views/Search-Results.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/SearchFormPart.cshtml|/Users/kevinwan/Documents/Prog" +
+    "ramming Projects/ThemeDevelopment/NewTheme/Views/SearchFormPart.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/SearchFormPart.Edit.cshtml|/Users/kevinwan/Documents" +
+    "/Programming Projects/ThemeDevelopment/NewTheme/Views/SearchFormPart.Edit.cshtml" +
+    "")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/SearchSettings.Edit.cshtml|/Users/kevinwan/Documents" +
+    "/Programming Projects/ThemeDevelopment/NewTheme/Views/SearchSettings.Edit.cshtml" +
+    "")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Shared/NotFound.liquid|/Users/kevinwan/Documents/Pro" +
     "gramming Projects/ThemeDevelopment/NewTheme/Views/Shared/NotFound.liquid")]
-[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Shared/Search.liquid|/Users/kevinwan/Documents/Progr" +
-    "amming Projects/ThemeDevelopment/NewTheme/Views/Shared/Search.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Shared/Search.cshtml|/Users/kevinwan/Documents/Progr" +
+    "amming Projects/ThemeDevelopment/NewTheme/Views/Shared/Search.cshtml")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Tag-TermPart.liquid|/Users/kevinwan/Documents/Progra" +
     "mming Projects/ThemeDevelopment/NewTheme/Views/Tag-TermPart.liquid")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Term-Category.liquid|/Users/kevinwan/Documents/Progr" +
@@ -80,6 +101,20 @@ using System.Reflection;
     "")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/TermItem-Category.liquid|/Users/kevinwan/Documents/P" +
     "rogramming Projects/ThemeDevelopment/NewTheme/Views/TermItem-Category.liquid")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/UserMenu.cshtml|/Users/kevinwan/Documents/Programmin" +
+    "g Projects/ThemeDevelopment/NewTheme/Views/UserMenu.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/UserMenuItems-Dashboard.cshtml|/Users/kevinwan/Docum" +
+    "ents/Programming Projects/ThemeDevelopment/NewTheme/Views/UserMenuItems-Dashboar" +
+    "d.cshtml")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/UserMenuItems-Profile.cshtml|/Users/kevinwan/Documen" +
+    "ts/Programming Projects/ThemeDevelopment/NewTheme/Views/UserMenuItems-Profile.cs" +
+    "html")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/UserMenuItems-SignOut.cshtml|/Users/kevinwan/Documen" +
+    "ts/Programming Projects/ThemeDevelopment/NewTheme/Views/UserMenuItems-SignOut.cs" +
+    "html")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/UserMenuItems-Title.cshtml|/Users/kevinwan/Documents" +
+    "/Programming Projects/ThemeDevelopment/NewTheme/Views/UserMenuItems-Title.cshtml" +
+    "")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget-Blockquote.liquid|/Users/kevinwan/Documents/P" +
     "rogramming Projects/ThemeDevelopment/NewTheme/Views/Widget-Blockquote.liquid")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/Views/Widget-Form.cshtml|/Users/kevinwan/Documents/Program" +
@@ -116,6 +151,12 @@ using System.Reflection;
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/css/bootstrap-oc.min.css|/Users/kevinwan/Documents" +
     "/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/css/bootstrap-oc.min.css" +
     "")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/css/materialize.min.css|/Users/kevinwan/Documents/" +
+    "Programming Projects/ThemeDevelopment/NewTheme/wwwroot/css/materialize.min.css")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/css/mdb.min.css|/Users/kevinwan/Documents/Programm" +
+    "ing Projects/ThemeDevelopment/NewTheme/wwwroot/css/mdb.min.css")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/css/menu.css|/Users/kevinwan/Documents/Programming" +
+    " Projects/ThemeDevelopment/NewTheme/wwwroot/css/menu.css")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/css/sticky-footer-navbar.css|/Users/kevinwan/Docum" +
     "ents/Programming Projects/ThemeDevelopment/NewTheme/wwwroot/css/sticky-footer-na" +
     "vbar.css")]
@@ -125,6 +166,12 @@ using System.Reflection;
     "Projects/ThemeDevelopment/NewTheme/wwwroot/favicon.ico")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/js/main.js|/Users/kevinwan/Documents/Programming P" +
     "rojects/ThemeDevelopment/NewTheme/wwwroot/js/main.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/js/materialize.min.js|/Users/kevinwan/Documents/Pr" +
+    "ogramming Projects/ThemeDevelopment/NewTheme/wwwroot/js/materialize.min.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/js/mdb.es.min.js|/Users/kevinwan/Documents/Program" +
+    "ming Projects/ThemeDevelopment/NewTheme/wwwroot/js/mdb.es.min.js")]
+[assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/js/mdb.umd.min.js|/Users/kevinwan/Documents/Progra" +
+    "mming Projects/ThemeDevelopment/NewTheme/wwwroot/js/mdb.umd.min.js")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/js/site.js|/Users/kevinwan/Documents/Programming P" +
     "rojects/ThemeDevelopment/NewTheme/wwwroot/js/site.js")]
 [assembly: OrchardCore.Modules.Manifest.ModuleAssetAttribute("Areas/ThemeDevelopment/wwwroot/material/web/all.d.ts|/Users/kevinwan/Documents/Pr" +
@@ -3446,7 +3493,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThemeDevelopment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c45c7228bb4f1cb74d097d5bdae3a0c6e8345796")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+467c44371a42a2d7a427b965a13a4d512559ebd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThemeDevelopment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThemeDevelopment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,14 +1,18 @@
+@using OrchardCore.ResourceManagement.TagHelpers
 <!DOCTYPE html>
 <html lang="@Orchard.CultureName()">
-    <head>
-        @Html.Partial("./MainLayout/_Head.cshtml")
-    </head>
 
-    <body dir="@Orchard.CultureDir()">
-        @Html.Partial("./MainLayout/_Navbar.cshtml")
-        @Html.Partial("./MainLayout/_Body.cshtml")
-        @Html.Partial("./MainLayout/_Footer.cshtml")
-        
-        <resources type="FootScript"/>
-    </body>
+<head>
+    @Html.Partial("./MainLayout/_Head.cshtml")
+</head>
+
+<body dir="@Orchard.CultureDir()">
+
+<div class="main-body-flex-column">
+    @Html.Partial("./MainLayout/_Navbar.cshtml")
+    @Html.Partial("./MainLayout/_Body.cshtml")
+</div>
+    @Html.Partial("./MainLayout/_Footer.cshtml")
+<resources type="FootScript"/>
+</body>
 </html>

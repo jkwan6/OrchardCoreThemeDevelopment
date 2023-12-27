@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="OrchardCore.Search" Version="1.7.2" />
     <PackageReference Include="OrchardCore.Theme.Targets" Version="1.7.2" />
     <PackageReference Include="OrchardCore.ContentManagement" Version="1.7.2" />
     <PackageReference Include="OrchardCore.DisplayManagement" Version="1.7.2" />
@@ -24,10 +25,17 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="Views\MainLayout\_Material.cshtml" />
     <Content Include="Views\MainLayout\_Body.cshtml" />
     <Content Include="Views\MainLayout\_Footer.cshtml" />
     <Content Include="Views\MainLayout\_Head.cshtml" />
     <Content Include="Views\MainLayout\_Navbar.cshtml" />
+    <Content Include="Views\Search-Form.cshtml" />
+    <Content Include="Views\Shared\Search.cshtml" />
+    <Content Include="Views\UserMenuItems-Profile.cshtml" />
+    <Content Include="Views\UserMenuItems-Dashboard.cshtml" />
+    <Content Include="Views\UserMenuItems-SignOut.cshtml" />
+    <Content Include="Views\UserMenuItems-Title.cshtml" />
     <Content Include="wwwroot\css\styles.css" />
   </ItemGroup>
 
@@ -1183,5 +1191,9 @@
     <EmbeddedResource Remove="wwwroot\lib\material\web\tokens\v0_192\lib.test.scss" />
     <EmbeddedResource Remove="wwwroot\lib\material\web\typography\_typeface.scss" />
     <EmbeddedResource Remove="wwwroot\lib\material\web\typography\_typescale.scss" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Search\" />
   </ItemGroup>
 </Project>

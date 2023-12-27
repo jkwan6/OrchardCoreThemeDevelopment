@@ -1,0 +1,48 @@
+@using System.Security.Claims
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@inject IAuthorizationService AuthorizationService
+
+
+
+@if (await AuthorizationService.AuthorizeAsync(
+         User, 
+         OrchardCore.Users.CommonPermissions.EditOwnUser))
+{
+    <li class="no-list-style">
+        <a 
+            class="no-decoration dropdown-item"
+            asp-route-area="OrchardCore.Users" 
+            asp-action="Edit" 
+            asp-controller="Admin" 
+            asp-route-returnUrl="@FullRequestPath">
+                <button type="submit" class="dropdown-item menu-buttons">
+                    <div class="menu-flex">
+                        <div class="material-symbols-outlined material-icon">person</div>
+                        <div class="menu-text" >@T["Profile"]</div>
+                    </div>
+                </button>
+        </a>
+    </li>
+}
+else if (await AuthorizationService.AuthorizeAsync(
+             User, 
+             OrchardCore.Users.CommonPermissions.ViewUsers))
+{
+    <li class="no-list-style">
+        <a
+            class="no-decoration dropdown-item"
+            asp-route-area="OrchardCore.Users"
+            asp-action="Display"
+            asp-controller="Admin"
+            asp-route-id="@User.FindFirstValue(ClaimTypes.NameIdentifier)"
+            asp-route-returnUrl="@FullRequestPath">
+                <button type="submit" class="dropdown-item menu-buttons">
+                    <div class="menu-flex">
+                        <div class="material-symbols-outlined material-icon">person</div>
+                        <div class="menu-text" >@T["Profile"]</div>
+                    </div>
+                </button>
+        </a>
+    </li>
+}

@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/obj/Debug/net6.0/scopedcss/projectbundle/OrchardBackEnd.bundle.scp.css",
+      "PackagePath": "staticwebassets/OrchardBackEnd.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/.placeholder",
+      "PackagePath": "staticwebassets/.placeholder"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/Default/is-cache/1/c/8/8/5/e/b/8/b/d/0/9/1c885eb8bd09.jpg",
+      "PackagePath": "staticwebassets/Default/is-cache/1/c/8/8/5/e/b/8/b/d/0/9/1c885eb8bd09.jpg"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/Default/is-cache/1/c/8/8/5/e/b/8/b/d/0/9/1c885eb8bd09.meta",
+      "PackagePath": "staticwebassets/Default/is-cache/1/c/8/8/5/e/b/8/b/d/0/9/1c885eb8bd09.meta"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/Default/is-cache/2/2/3/8/8/b/b/3/f/b/8/d/22388bb3fb8d.jpg",
+      "PackagePath": "staticwebassets/Default/is-cache/2/2/3/8/8/b/b/3/f/b/8/d/22388bb3fb8d.jpg"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/Default/is-cache/2/2/3/8/8/b/b/3/f/b/8/d/22388bb3fb8d.meta",
+      "PackagePath": "staticwebassets/Default/is-cache/2/2/3/8/8/b/b/3/f/b/8/d/22388bb3fb8d.meta"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/Default/is-cache/3/5/0/e/4/3/2/7/7/6/5/4/350e43277654.jpg",
+      "PackagePath": "staticwebassets/Default/is-cache/3/5/0/e/4/3/2/7/7/6/5/4/350e43277654.jpg"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/Default/is-cache/3/5/0/e/4/3/2/7/7/6/5/4/350e43277654.meta",
+      "PackagePath": "staticwebassets/Default/is-cache/3/5/0/e/4/3/2/7/7/6/5/4/350e43277654.meta"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/Default/is-cache/5/4/2/d/2/7/1/e/c/8/3/2/542d271ec832.jpg",
+      "PackagePath": "staticwebassets/Default/is-cache/5/4/2/d/2/7/1/e/c/8/3/2/542d271ec832.jpg"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/Default/is-cache/5/4/2/d/2/7/1/e/c/8/3/2/542d271ec832.meta",
+      "PackagePath": "staticwebassets/Default/is-cache/5/4/2/d/2/7/1/e/c/8/3/2/542d271ec832.meta"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/Default/is-cache/a/6/a/f/b/9/a/5/0/c/e/2/a6afb9a50ce2.jpg",
+      "PackagePath": "staticwebassets/Default/is-cache/a/6/a/f/b/9/a/5/0/c/e/2/a6afb9a50ce2.jpg"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/Default/is-cache/a/6/a/f/b/9/a/5/0/c/e/2/a6afb9a50ce2.meta",
+      "PackagePath": "staticwebassets/Default/is-cache/a/6/a/f/b/9/a/5/0/c/e/2/a6afb9a50ce2.meta"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/Default/is-cache/d/9/4/7/9/4/9/1/2/9/6/7/d94794912967.jpg",
+      "PackagePath": "staticwebassets/Default/is-cache/d/9/4/7/9/4/9/1/2/9/6/7/d94794912967.jpg"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/Default/is-cache/d/9/4/7/9/4/9/1/2/9/6/7/d94794912967.meta",
+      "PackagePath": "staticwebassets/Default/is-cache/d/9/4/7/9/4/9/1/2/9/6/7/d94794912967.meta"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.OrchardBackEnd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.OrchardBackEnd.props",
+      "PackagePath": "build\\OrchardBackEnd.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.OrchardBackEnd.props",
+      "PackagePath": "buildMultiTargeting\\OrchardBackEnd.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.OrchardBackEnd.props",
+      "PackagePath": "buildTransitive\\OrchardBackEnd.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

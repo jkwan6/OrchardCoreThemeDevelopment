@@ -1,0 +1,76 @@
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+
+@if (!User.Identity.IsAuthenticated)
+{
+    @if (Model.AnonymousContent?.Items != null && Model.AnonymousContent.Items.Count > 0)
+    {
+        <li>
+            <a data-mdb-dropdown-init
+               class="dropdown-toggle d-flex align-items-center hidden-arrow"
+               href="#"
+               id="navbarDropdownMenuAvatar"
+               role="button"
+               aria-expanded="false">
+                    @if (Model.AnonymousHeader?.Items != null && Model.AnonymousHeader.Items.Count > 0)
+                    {
+                        @await DisplayAsync(Model.AnonymousHeader)
+                    }
+                    else
+                    {
+                        <span>@T["Users"]</span>
+                    }
+            </a>
+
+                <ul
+                    class="dropdown-menu dropdown-menu-end"
+                    aria-labelledby="navbarDropdownMenuAvatar">
+                    @await DisplayAsync(Model.AnonymousContent)
+                </ul>
+        </li>
+        return;
+    }
+    
+    
+    <div>
+        <a
+           class="dropdown-toggle d-flex align-items-center hidden-arrow"
+           asp-route-area="OrchardCore.Users"
+           asp-controller="Account"
+           asp-action="Login"
+           role="button"
+           aria-expanded="false">
+            <div class="menu-title-flex-row">
+                <div class="material-symbols-outlined material-icon-title">login</div>
+                <div>@T["Log In"]</div>
+            </div>
+        </a>
+    </div>
+
+    return;
+}
+
+<div class="dropdown">
+    <a data-mdb-dropdown-init
+       class="d-flex align-items-center hidden-arrow"
+       id="navbarDropdownMenuAvatar"
+       role="button"
+       aria-expanded="false">
+        <div>        
+            @if (Model.Header != null)
+            {
+                @await DisplayAsync(Model.Header)
+            }
+        </div>
+        <div class="material-symbols-outlined material-icon-dropdown">expand_more</div>
+    </a>
+    <ul
+        class="dropdown-menu dropdown-menu-end no-list-style"
+        aria-labelledby="navbarDropdownMenuAvatar">
+        @if (Model.Content != null)
+        {
+            <ul>
+                @await DisplayAsync(Model.Content)
+            </ul>
+        }
+    </ul>
+</div>

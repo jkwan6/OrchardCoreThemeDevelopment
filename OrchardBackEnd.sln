@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchardBackEnd", "OrchardBackEnd\OrchardBackEnd.csproj", "{27D0F42A-D94B-4336-9B25-593B7E81E157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemeDevelopment", "NewTheme\ThemeDevelopment.csproj", "{6BD46F07-ADCD-4F31-B616-A5DBDA91C96D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27D0F42A-D94B-4336-9B25-593B7E81E157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D0F42A-D94B-4336-9B25-593B7E81E157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D0F42A-D94B-4336-9B25-593B7E81E157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D0F42A-D94B-4336-9B25-593B7E81E157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BD46F07-ADCD-4F31-B616-A5DBDA91C96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BD46F07-ADCD-4F31-B616-A5DBDA91C96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BD46F07-ADCD-4F31-B616-A5DBDA91C96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BD46F07-ADCD-4F31-B616-A5DBDA91C96D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B65D30F-334F-4CC3-98AC-EABAD1E97BE4}
+	EndGlobalSection
+EndGlobal

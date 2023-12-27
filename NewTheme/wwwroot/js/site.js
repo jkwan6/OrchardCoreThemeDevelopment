@@ -1,2 +1,3 @@
-﻿
-import "../material/web/button/filled-button.js";
+﻿import { Dropdown, Collapse, initMDB, Ripple } from "./mdb.umd.min";
+
+initMDB({ Dropdown, Collapse, Ripple });

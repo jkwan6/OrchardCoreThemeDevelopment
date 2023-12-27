@@ -1,5 +1,53 @@
+/**{*/
+/*    border:solid;*/
+/*    border-color: black;*/
+/*    border-width: thin;*/
+/*    color:black;*/
+/*}*/
+
+ul{
+    padding-left: unset !important;
+    margin-left: unset !important;
+}
+
+.red-color{
+    color:red;
+}
+
+.material-icon-login{
+    
+}
+
+.click-this-link
+{
+    color:red;
+    /*pointer-events: all;*/
+}
+
+.menu-buttons-padding{
+    color:red;
+}
+
+.menu-inter-padding{
+    grid-column-gap: 15px;
+}
+
+.no-list-style{
+    list-style: none;
+    padding-left: unset !important;
+    margin-left: unset !important;
+}
 
 
+.main-body-flex-column{
+    display: flex;
+    flex-direction: column;
+}
+
+.body-flex-row{
+    display: flex;
+    flex-direction: row;
+}
 .body-container{
     display: flex;
     width:100%;
@@ -10,3 +58,74 @@
     width:100%;
     max-width: 1000px;
 }
+
+.body-flex{
+    display:flex;
+    flex-direction: column;
+}
+
+.material-symbols-outlined {
+ font-variation-settings:
+         'FILL' 0,
+         'wght' 400,
+         'GRAD' 0,
+         'opsz' 24
+}
+
+.material-icon{
+    padding-bottom: unset;
+    margin-bottom: unset;
+}
+
+.menu-buttons{
+    border-radius: unset;
+    display: flex;
+    justify-items: left;
+}
+
+.menu-text{
+    padding-left: 10px;
+    padding-top: 3px;
+    padding-bottom: unset;
+    margin-bottom: unset;
+}
+
+.menu-flex{
+    /*flex-grow: 1;*/
+    display: flex;
+    flex-direction: row;
+    /*margin-top: 3px;*/
+    /*padding-top: unset;*/
+    /*width:150px;*/
+}
+
+
+.material-icon-title {
+    padding-right: 2px;
+    padding-left: 2px;
+}
+
+.menu-title-flex-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.material-icon-dropdown{
+    vertical-align: center;
+}
+
+.no-decoration{
+    text-decoration: unset;
+}
+.no-decoration:visited{
+    text-decoration: unset;
+}
+
+
+/*:root {*/
+/*    --md-elevated-button-container-shape: 0px;*/
+/*    --md-elevated-button-label-text-font: system-ui;*/
+/*    --md-sys-color-surface-container-low: #FAFDFC;*/
+/*    --md-sys-color-primary: #191C1C;*/
+/*}*/
+

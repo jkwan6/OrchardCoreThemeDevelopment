@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{27D0F42A-D94B-4336-9B25-593B7E81E157}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewTheme/Views/Shared/Search.cshtml">
+    <Files>
+      <File FileName="NewTheme/Views/MainLayout/_Material.cshtml" />
+      <File FileName="NewTheme/Views/MainLayout/_Head.cshtml" />
+      <File FileName="NewTheme/Views/MainLayout/_Navbar.cshtml" />
+      <File FileName="NewTheme/Views/MainLayout/_Footer.cshtml" />
+      <File FileName="NewTheme/Views/MainLayout/_Body.cshtml" />
+      <File FileName="NewTheme/Views/Layout.cshtml" />
+      <File FileName="NewTheme/Views/MenuItem.cshtml" />
+      <File FileName="NewTheme/Views/Menu.cshtml" />
+      <File FileName="NewTheme/Views/MenuItemLink-ContentMenuItem.cshtml" />
+      <File FileName="NewTheme/Views/MenuItemLink-HtmlMenuItem.cshtml" />
+      <File FileName="NewTheme/Views/MenuItemLink-LinkMenuItem.cshtml" />
+      <File FileName="NewTheme/Views/UserMenu.cshtml" Line="47" Column="1" />
+      <File FileName="NewTheme/Views/Shared/Search.cshtml" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OrchardBackEnd" expanded="True">
+            <Node name="ThemeDevelopment">
+              <Node name="Views" expanded="True">
+                <Node name="MainLayout" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Search.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OrchardBackEnd PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

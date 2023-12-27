@@ -8,6 +8,7 @@
 @addTagHelper *, OrchardCore.ResourceManagement
 @addTagHelper *, OrchardCore.Menu
 
+@using Microsoft.AspNetCore.Authorization
 @using Microsoft.AspNetCore.Routing
 @using Microsoft.Extensions.Options
 @using OrchardCore.ContentManagement
@@ -17,5 +18,8 @@
 @using OrchardCore.DisplayManagement.ModelBinding
 @using OrchardCore.Users.Models
 
-@inject IDisplayManager<UserMenu> DisplayManager
-@inject IUpdateModelAccessor UpdateModelAccessor
+
+@using Microsoft.Extensions.Localization
+@using Microsoft.AspNetCore.Mvc.Localization
+@using OrchardCore.Search.ViewModels
+@using OrchardCore.ContentManagement.Display

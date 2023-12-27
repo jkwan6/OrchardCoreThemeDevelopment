@@ -1,13 +1,23 @@
-
+@using OrchardCore.ResourceManagement.TagHelpers
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>@RenderTitleSegments(Site.SiteName, "before")</title>
 <link type="image/x-icon" rel="shortcut icon" href="~/TheTheme/favicon.ico">
-<script asp-name="bootstrap" version="5" at="Foot"></script>
-<style asp-name="thetheme-bootstrap-oc" version="1"></style>
-<style asp-name="font-awesome" version="6"></style>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL@20..48,100..700,0..1" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL@20..48,100..700,0..1"  rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Sharp:opsz,wght,FILL@20..48,100..700,0..1" rel="stylesheet">
+
+<style asp-src="~/ThemeDevelopment/css/mdb.min.css"></style>
+<script asp-src="~/ThemeDevelopment/js/mdb.umd.min.js" at="Foot"></script>
+<style asp-src="~/ThemeDevelopment/css/menu.css"></style>
 <style asp-src="~/ThemeDevelopment/css/styles.css"></style>
-<script type="module" src="~/ThemeDevelopment/js/main.js" asp-append-version="true"></script>
+
+@* <script asp-name="bootstrap" version="5" at="Foot"></script> *@
+@* <style asp-name="thetheme-bootstrap-oc" version="1"></style> *@
+@* <style asp-name="font-awesome" version="6"></style> *@
+@* <style asp-src="~/ThemeDevelopment/css/navbar.css"></style> *@
+@* <style asp-src="~/ThemeDevelopment/css/styles.css"></style> *@
+
 <resources type="Meta"/>
 <resources type="HeadLink"/>
 <resources type="Stylesheet"/>

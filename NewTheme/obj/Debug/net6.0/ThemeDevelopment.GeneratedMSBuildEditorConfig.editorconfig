@@ -30,6 +30,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/MainLayout/_Body.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFpbkxheW91dC9fQm9keS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/MainLayout/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFpbkxheW91dC9fRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/MainLayout/_Head.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFpbkxheW91dC9fSGVhZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/MainLayout/_Material.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFpbkxheW91dC9fTWF0ZXJpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/MainLayout/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFpbkxheW91dC9fTmF2YmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Menu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVudS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,6 +68,54 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/MenuItemLink-LinkMenuItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVudUl0ZW1MaW5rLUxpbmtNZW51SXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Search-Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VhcmNoLUZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Search-List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VhcmNoLUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Search-Results.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VhcmNoLVJlc3VsdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/SearchFormPart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VhcmNoRm9ybVBhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/SearchFormPart.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VhcmNoRm9ybVBhcnQuRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/SearchSettings.Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VhcmNoU2V0dGluZ3MuRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Shared/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1NlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/UserMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlck1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/UserMenuItems-Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlck1lbnVJdGVtcy1EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/UserMenuItems-Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlck1lbnVJdGVtcy1Qcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/UserMenuItems-SignOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlck1lbnVJdGVtcy1TaWduT3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/UserMenuItems-Title.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlck1lbnVJdGVtcy1UaXRsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/Views/Widget-Form.cshtml]

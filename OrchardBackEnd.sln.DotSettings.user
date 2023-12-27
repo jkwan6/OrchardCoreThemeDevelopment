@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/Users/kevinwan/.nuget/packages/orchardcore.search/1.7.2/lib/net6.0/OrchardCore.Search.dll" /&gt;
+  &lt;Assembly Path="/Users/kevinwan/.nuget/packages/orchardcore.application.cms.targets/1.7.2/lib/net6.0/OrchardCore.Application.Cms.Targets.dll" /&gt;
+  &lt;Assembly Path="/Users/kevinwan/.nuget/packages/microsoft.aspnetcore.mvc.razor.runtimecompilation/6.0.21/lib/net6.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fe6ecebb_002Dd286_002D4bed_002D937c_002Dcb3a49137075/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

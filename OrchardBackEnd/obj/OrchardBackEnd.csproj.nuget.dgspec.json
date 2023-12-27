@@ -1,0 +1,176 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/OrchardBackEnd.csproj": {}
+  },
+  "projects": {
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ThemeDevelopment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ThemeDevelopment.csproj",
+        "projectName": "ThemeDevelopment",
+        "projectPath": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ThemeDevelopment.csproj",
+        "packagesPath": "/Users/kevinwan/.nuget/packages/",
+        "outputPath": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kevinwan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "OrchardCore.Admin.Abstractions": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            },
+            "OrchardCore.ContentManagement": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            },
+            "OrchardCore.DisplayManagement": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            },
+            "OrchardCore.Menu": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            },
+            "OrchardCore.ResourceManagement": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            },
+            "OrchardCore.Search": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            },
+            "OrchardCore.Theme.Targets": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            },
+            "OrchardCore.Users": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            },
+            "OrchardCore.Users.Abstractions": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/OrchardBackEnd.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/OrchardBackEnd.csproj",
+        "projectName": "OrchardBackEnd",
+        "projectPath": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/OrchardBackEnd.csproj",
+        "packagesPath": "/Users/kevinwan/.nuget/packages/",
+        "outputPath": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/OrchardBackEnd/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kevinwan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ThemeDevelopment.csproj": {
+                "projectPath": "/Users/kevinwan/Documents/Programming Projects/ThemeDevelopment/NewTheme/ThemeDevelopment.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Commentator.OrchardCore": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "OrchardCore.Application.Cms.Targets": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

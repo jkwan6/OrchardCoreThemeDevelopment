@@ -1,0 +1,35 @@
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+
+<li class="no-list-style dropdown-item">
+    <a
+        asp-route-area="OrchardCore.Users"
+        asp-controller="Account"
+        asp-action="ChangePassword"
+        asp-route-returnUrl="@FullRequestPath"
+        class="no-multisubmit no-decoration dropdown-item">
+        
+        <button type="submit" class="menu-buttons dropdown-item">
+            <div class="menu-flex">
+                <div class="material-symbols-outlined material-icon">key</div>
+                <div class="menu-text" >@T["Change password"]</div>
+            </div>
+        </button>
+    </a>
+</li>
+<li class="no-list-style">
+    <form
+        asp-route-area="OrchardCore.Users"
+        asp-controller="Account"
+        asp-action="LogOff"
+        method="post"
+        class="dropdown-item no-decoration">
+        
+        <button type="submit" class="menu-buttons dropdown-item">
+            <div class="menu-flex">
+                <div class="material-symbols-outlined material-icon">logout</div>
+                <div class="menu-text" >@T["Log off"]</div>
+            </div>
+        </button>
+        
+    </form>
+</li>

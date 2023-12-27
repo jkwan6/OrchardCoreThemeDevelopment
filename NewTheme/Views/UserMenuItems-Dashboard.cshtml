@@ -1,0 +1,15 @@
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+<li class="no-list-style">
+    <a
+    class="no-multisubmit no-decoration dropdown-item"
+    asp-route-area="OrchardCore.Admin"
+    asp-controller="Admin"
+    asp-action="Index">
+        <button type="submit" class="dropdown-item menu-buttons">
+            <div class="menu-flex">
+                <div class="material-symbols-outlined material-icon">dashboard</div>
+                <div class="menu-text">@T["Dashboard"]</div>
+            </div>
+        </button>
+    </a>
+</li>

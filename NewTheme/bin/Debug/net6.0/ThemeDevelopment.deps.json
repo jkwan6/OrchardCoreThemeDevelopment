@@ -13,6 +13,7 @@
           "OrchardCore.DisplayManagement": "1.7.2",
           "OrchardCore.Menu": "1.7.2",
           "OrchardCore.ResourceManagement": "1.7.2",
+          "OrchardCore.Search": "1.7.2",
           "OrchardCore.Theme.Targets": "1.7.2",
           "OrchardCore.Users": "1.7.2",
           "OrchardCore.Users.Abstractions": "1.7.2"
@@ -828,6 +829,25 @@
           }
         }
       },
+      "OrchardCore.Deployment/1.7.2": {
+        "dependencies": {
+          "OrchardCore.Admin.Abstractions": "1.7.2",
+          "OrchardCore.Data.Abstractions": "1.7.2",
+          "OrchardCore.Data.YesSql": "1.7.2",
+          "OrchardCore.Deployment.Core": "1.7.2",
+          "OrchardCore.DisplayManagement": "1.7.2",
+          "OrchardCore.Localization.Abstractions": "1.7.2",
+          "OrchardCore.Module.Targets": "1.7.2",
+          "OrchardCore.Navigation.Core": "1.7.2",
+          "OrchardCore.ResourceManagement": "1.7.2"
+        },
+        "runtime": {
+          "lib/net6.0/OrchardCore.Deployment.dll": {
+            "assemblyVersion": "1.7.2.0",
+            "fileVersion": "1.7.2.0"
+          }
+        }
+      },
       "OrchardCore.Deployment.Abstractions/1.7.2": {
         "dependencies": {
           "OrchardCore.DisplayManagement": "1.7.2",
@@ -835,6 +855,17 @@
         },
         "runtime": {
           "lib/net6.0/OrchardCore.Deployment.Abstractions.dll": {
+            "assemblyVersion": "1.7.2.0",
+            "fileVersion": "1.7.2.0"
+          }
+        }
+      },
+      "OrchardCore.Deployment.Core/1.7.2": {
+        "dependencies": {
+          "OrchardCore.Deployment.Abstractions": "1.7.2"
+        },
+        "runtime": {
+          "lib/net6.0/OrchardCore.Deployment.Core.dll": {
             "assemblyVersion": "1.7.2.0",
             "fileVersion": "1.7.2.0"
           }
@@ -1030,6 +1061,35 @@
         },
         "runtime": {
           "lib/net6.0/OrchardCore.Roles.Core.dll": {
+            "assemblyVersion": "1.7.2.0",
+            "fileVersion": "1.7.2.0"
+          }
+        }
+      },
+      "OrchardCore.Search/1.7.2": {
+        "dependencies": {
+          "OrchardCore.ContentManagement": "1.7.2",
+          "OrchardCore.ContentTypes.Abstractions": "1.7.2",
+          "OrchardCore.Deployment": "1.7.2",
+          "OrchardCore.DisplayManagement": "1.7.2",
+          "OrchardCore.Module.Targets": "1.7.2",
+          "OrchardCore.Navigation.Core": "1.7.2",
+          "OrchardCore.Search.Abstractions": "1.7.2"
+        },
+        "runtime": {
+          "lib/net6.0/OrchardCore.Search.dll": {
+            "assemblyVersion": "1.7.2.0",
+            "fileVersion": "1.7.2.0"
+          }
+        }
+      },
+      "OrchardCore.Search.Abstractions/1.7.2": {
+        "dependencies": {
+          "OrchardCore.ContentManagement": "1.7.2",
+          "OrchardCore.DisplayManagement": "1.7.2"
+        },
+        "runtime": {
+          "lib/net6.0/OrchardCore.Search.Abstractions.dll": {
             "assemblyVersion": "1.7.2.0",
             "fileVersion": "1.7.2.0"
           }
@@ -2623,12 +2683,26 @@
       "path": "orchardcore.data.yessql.abstractions/1.7.2",
       "hashPath": "orchardcore.data.yessql.abstractions.1.7.2.nupkg.sha512"
     },
+    "OrchardCore.Deployment/1.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7lSuykKCEfH+MMQ7eQFxiK7NfNeuEyHxxMLlIhhzUlhfCQ+dQLqE1jWV/e+lo7mvWzpZYEebIGT6m902tfDLHQ==",
+      "path": "orchardcore.deployment/1.7.2",
+      "hashPath": "orchardcore.deployment.1.7.2.nupkg.sha512"
+    },
     "OrchardCore.Deployment.Abstractions/1.7.2": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-Itl67HDsC5gSp9xIg+zOnyCKSPi+kB6wYWOxGOfLU3n5Oqmt/+jvJH8lI7vHgq0h5oUF+c4xn6P9PVgDkbMWdg==",
       "path": "orchardcore.deployment.abstractions/1.7.2",
       "hashPath": "orchardcore.deployment.abstractions.1.7.2.nupkg.sha512"
+    },
+    "OrchardCore.Deployment.Core/1.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V8zZSj6F+ntWqDyTOSTjRnKyZME4tTjTrw3qdxDDo7KY61eYrXsfFtXx7lyZ0SeJbVSB5G0ygzs2oH3r4nwUGA==",
+      "path": "orchardcore.deployment.core/1.7.2",
+      "hashPath": "orchardcore.deployment.core.1.7.2.nupkg.sha512"
     },
     "OrchardCore.DisplayManagement/1.7.2": {
       "type": "package",
@@ -2748,6 +2822,20 @@
       "sha512": "sha512-9TMYz93QPzGvtM7KqIiw+YEqBXfwt932gJnLCjQtiluwRAsdiX8Q0wRWhWvBhjy6Px7KLcVjbPI5kn7lN/sSbw==",
       "path": "orchardcore.roles.core/1.7.2",
       "hashPath": "orchardcore.roles.core.1.7.2.nupkg.sha512"
+    },
+    "OrchardCore.Search/1.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Adf02CK+st63NViwA22ufXTFEKdkNRH4ArZ+pyMO6ktRTJRQVPlXRU+8fGErEpzEuwtjhMaQRjdSq3yUTj1ZLA==",
+      "path": "orchardcore.search/1.7.2",
+      "hashPath": "orchardcore.search.1.7.2.nupkg.sha512"
+    },
+    "OrchardCore.Search.Abstractions/1.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C+1c4ISIro8tM5UtIpzcYI4T1Eg/XKZLcdW2QKpdRrgdubGVzCny2WEUpXdqxLcnjMzl0tS/4YEQv2F+1BMWhQ==",
+      "path": "orchardcore.search.abstractions/1.7.2",
+      "hashPath": "orchardcore.search.abstractions.1.7.2.nupkg.sha512"
     },
     "OrchardCore.Settings.Core/1.7.2": {
       "type": "package",

@@ -1,12 +1,14 @@
 @{
     int level = (int)Model.Level;
-    TagBuilder tag = Tag(Model, "li");
-
+    TagBuilder tag = Tag(Model);
     TagBuilder parentTag = null;
+    
     if ((bool)Model.HasItems)
     {
         tag.AddCssClass("dropdown");
-        parentTag = Tag(Model, "ul");
+        tag.Attributes.Add("data-mdb-dropdown-init",null);
+        tag.Attributes.Add("data-mdb-dropdown-animation","off");
+        parentTag = Tag(Model);
         parentTag.AddCssClass("dropdown-menu");
     }
 
@@ -14,22 +16,35 @@
     Model.Metadata.Alternates.Clear();
     Model.Classes.Clear();
     Model.Metadata.Type = "MenuItemLink";
-
+    
     @if ((int)Model.Level > 0)
     {
-        Model.Classes.Add("dropdown-item");
+
     }
     else
     {
         Model.Classes.Add("nav-link");
         if (Model.HasItems)
         {
-            Model.Classes.Add("dropdown-toggle");
-            Model.Attributes.Add("data-bs-toggle", "dropdown");
+            Model.Classes.Add("dropdown-item");
         }
     }
-
-    tag.InnerHtml.AppendHtml(await DisplayAsync(Model));
+    if (Model.HasItems)
+    {
+        // Model.Attributes.Add("data-mdb-dropdown-init",null);
+        // tag.Attributes.Add("data-mdb-dropdown-animation","off");
+        Model.Classes.Add("dropdown-toggle");
+        Model.Attributes.Add("data-bs-toggle", "dropdown");
+        Model.Attributes.Add("aria-expanded", "false");
+        tag.InnerHtml.AppendHtml(await DisplayAsync(Model));
+    }
+    else
+    {
+        Model.Classes.Add("dropdown-item");
+        <li>
+        @tag.InnerHtml.AppendHtml(await DisplayAsync(Model))
+        </li>
+    }
 
     if (parentTag != null)
     {
@@ -38,6 +53,7 @@
             item.Level = level + 1;
             item.ParentTag = parentTag;
             parentTag.InnerHtml.AppendHtml(await DisplayAsync(item));
+            
         }
 
         tag.InnerHtml.AppendHtml(parentTag);
